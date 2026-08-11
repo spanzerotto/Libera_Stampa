@@ -1,376 +1,302 @@
-calc_date	Data	pag	autore dell'OPERA	OPERA	Tipo di opera (L/I/C/T/M)	tipologia CONTRIBUTO	menzione esplicita dell'OPERA	FIRMA del CONTRIBUTO	titolo del CONTRIBUTO	Extra	Forma e grafica
-1946-01-04	04/01/1946	2	Luigi Vassella	"""Giovanni Laini: L'uomo e lo scrittore"""	L	presentazione del libro di Vassella su Laini	parziale	u. f.	"LAINI, ""La gloriola invidiata"" ovvero: Il pugnale di legno"	Vassella detrattore di Laini (per invidia?). Seconda puntata	
-1946-01-04	04/01/1946	2	Marino Marini	"""Il miracolo"""	I	"presentazione dell'artista  (""Galleria"")"	"foto di un particolare de ""Il miracolo"""	p. s.	Galleria. Marino Marini		
-1946-01-04	04/01/1946	2	Alfonso Gatto	"""Al congresso d'Italia"""	L	poesia con righe introduttive	totale	-	L'ultima poesia di Alfonso Gatto	intro sul contesto di redazione e lettura (congresso PCI)	finestra incorniciata
-1946-01-04	04/01/1946	2	Ernest Hemingway	"""Per chi suona la campana"""	L	"annuncia prossima recensione del libro sulla rubrica e menziona le critiche del Vaticano (""Osservatore Romano""), riportando la risposta di Vittorini"	no	Elio Vittorini	"""Per chi suona la campana"", di Hemingway, suona anche per il Vaticano"	"Riporta parte della risposta di Elio Vittorini, pubblicata su ""Il Politecnico"""	finestra incorniciata
-1946-01-11	11/01/1946	2	Firtz Gruenbaum e Paul Morgan	"""La canzone di Buchenwald"""	L	poesia con commento di contesto	totale	Eros Bellinelli	La canzone di Buchenwald		
-1946-01-11	11/01/1946	2 e 3	Pietro Salati	"""Tony Spada"""	L	racconto 	totale	Pietro Salati	Un racconto di Pietro Salati. Tony Spada		"""continua in 3a pagina"""
-1946-01-11	11/01/1946	2	Lucio Fontana 	"""Figura"" "	I	"presentazione dell'artista  (""Galleria"")"	"foto di un particolare de ""Figura"""		Galleria. Lucio Fontana		
-1946-01-11	11/01/1946	2	vari compositori	"""La sinfonia di Leningrado"" "	M	recensione	no	B.	La sinfonia di Leningrado		
-1946-01-18	18/01/1946	2	Roberto Zerboni	"""Saint-Malo'"""	L	poesia 	totale		Saint-Malò		incorniciata
-1946-01-18	18/01/1946	2	Arturo Martini	"""Il lottatore"""	I	"presentazione dell'artista  (""Galleria"")"	"foto de ""Il lottatore"""	ps	Galleria. Arturo Martini		
-1946-01-18	18/01/1946	2	Filippo Scelzo		T	profilo e caratteristiche stilistiche del direttore artistico Scelzo		G. M.	Mess'in scena		
-1946-01-18	18/01/1946	2	Thornton Wilder	"""Piccola città"""	T	commento, recensione	no	Dr. Julius Blei	Piccola città		
-1946-01-25	25/01/1946	2	Pietro Salati	"""La ragnatela nel cielo"""	L	racconto 	totale	Pietro Salati	La ragnatela nel cielo		sovrastante una piccola grafica (larga 2 colonne)
-1946-01-25	25/01/1946	2	Ugo Frey	"""Stazioni del nord"""	L	racconto 	totale	Ugo Frey	Stazioni del nord		
-1946-01-25	25/01/1946	2	Ugo Frey	"""Lavoro"""	L	poesia 	totale	Ugo Frey	Lavoro		finestra incorniciata, sovrastante una piccola grafica (pesciolino)
-1946-01-25	25/01/1946	2	Roberto Zerboni	"""L'angelo del Bernini"""	L	poesia 	totale	Roberto Zerboni	L'angelo del Bernini		"finestra incorniciata, insieme a ""Lavoro"""
-1946-01-25	25/01/1946	2	compagnia Merlini (?)	"""L'Orchidea"""	T	commento su rappresentazione teatrale della compagnia Merlini	no	Federico Ninchi	Palcoscenico. Fischiatori milanesi, vendicatemi!	"commento preso dal ""Settimo Giorno"" del 12.1.56' (46?)"	
-1946-02-08	08/02/1946	2	Aldo Borlenghi	"""Dai cavalli ove è scosso il tramonto"""	L	poesia 	totale	Aldo Borlenghi	Dai cavalli ove è scosso il tramonto		finestra incorniciata
-1946-02-08	08/02/1946	2 e 3	Carl Drever	"""Il vampiro"""	C	"testo di presentazione del film ""Il Vampiro"""	no	Fabio Carpi	Il vampiro (l'etrange aventure de David Grey)		"""per ragioni di spazio siamo obbligati a pubblicarla in due parti"""
-1946-02-08	08/02/1946	2	Pietro Salati	Viaggio sentimentale	L	racconto	totale	Pietro Salati	Viaggio sentimentale	racconto di uno suo viaggio a Milano, dove incontra 3 generazioni di poesia italiana	piccola grafica (due volti femminili) sotto la firma
-1946-02-15	15/02/1946	2	Arrigo Benedetti	"""Paura all'alba"""	L	recensione libro	qualche citazione	Aldo Borlenghi	Paura all'alba		
-1946-02-15	15/02/1946	2	Rafael Estrada	"""Soldati messicani"""	L	poesia 	totale	Rafael Estrada (traduzione di F.C.)	Soldati messicani		finestra incorniciata e piccola grafica (pesce)
-1946-02-15	15/02/1946	2 e3	Carl Drever	"""Il vampiro"""	C	"testo di presentazione del film ""Il Vampiro"""	no	Fabio Carpi	Il vampiro (l'etrange aventure de David Grey)		grafica (2 zebre)
-1946-02-22	22/02/1946	2e 3	Jean Renoir	"""La grande illusion"""	C	commento di approfondimento	no	Fabio Carpi	"Il cinema francese, Renoir e ""La grande illusion"""		continua in 3a pagina
-1946-02-22	22/02/1946	2	 (poesia popolare argentina)	"""La casa dell'amor triste"""	L	poesia riportata	totale	tradotta da F.C.	La casa dell'amor triste		finestra incorniciata 
-1946-02-22	22/02/1946	2	Ugo Canonica	"""La voce del padre"""	L	difesa del libro di Canonica	qualche citazione	Ugo Frey	Il tentativo di un giovane ticinese	si risponde a un professore detrattore del libro di Canonica	N.d.R. che commenta la complessità del caso
-1946-02-23	23/02/1946	4				"introduzione a ""I GIOVANI POETI TICINESI"""		Eros Bellinelli	Breve introduzione	"sorta di continuazione della ""Pagina dei Giovani Poeti italiani"" apparsa il 15 dicembre 1945"	"tre colonne (""libere""). Nel resto della pagina le poesie sono separate fra loro (in base all'autore) solo da una riga"
-1946-02-23	23/02/1946	4	Giorgio Orelli	"""Quest'altro mattino"""	L	poesia	totale		Quest'altro mattino		
-1946-02-23	23/02/1946	4	Giorgio Orelli	"""Sasso Corbaro"""	L	poesia	totale		Sasso Corbaro		
-1946-02-23	23/02/1946	4	Pietro Salati	"""Notte militare"""	L	poesia	totale		Notte militare		
-1946-02-23	23/02/1946	4	Pietro Salati	"""Più che un ricordo"""	L	poesia	totale		Più che un ricordo		
-1946-02-23	23/02/1946	4	Ugo Frey	"""Parole"""	L	poesia	totale		Parole		
-1946-02-23	23/02/1946	4	Ugo Frey	"""Amica"""	L	poesia	totale		Amica		
-1946-02-23	23/02/1946	4	Felice Filippini	"""Fola"""	L	poesia	totale		Fola		
-1946-02-23	23/02/1946	4	Amleto Pedroli	"""Forse mi segue ancora"""	L	poesia	totale		Forse mi segue ancora		
-1946-02-23	23/02/1946	4	Amleto Pedroli	"""Frammento"""	L	poesia	totale		Frammento		
-1946-02-23	23/02/1946	4	Tarcisio Poma	"""Se qualcuno t'aspetta"""	L	poesia	totale		Se qualcuno t'aspetta		
-1946-02-23	23/02/1946	4	Pericle Patocchi	"""Noce"""	L	poesia	totale		Noce	in francese	
-1946-02-23	23/02/1946	4	Pericle Patocchi ??	"""Pianura"""	L	poesia	totale		Pianura		
-1946-02-23	23/02/1946	4	Adolfo Jenni	"""Cielo cupo farebbe scoperto"""	L	poesia	totale		Cielo cupo farebbe scoperto		
-1946-02-23	23/02/1946	4	S. Maspoli	"""La desolazione. Parco Ciani"""	L	poesia	totale		La desolazione	in dialetto	
-1946-02-23	23/02/1946	4	S. Maspoli	"""Lapid di vecc"""	L	poesia	totale		Lapid di vecc	in dialetto	
-1946-02-23	23/02/1946	4	Tarcisio Poma	"""Più oltre non incedere"""	L	poesia	totale		Più oltre non incedere		
-1946-02-23	23/02/1946	4	Vinicio Salati	"""Finestre senza vetro"""	L	poesia	totale		Finestre senza vetro		
-1946-03-01	01/03/1946	2	Aldo Borlenghi	"""Tra qualche foglia autunnale splendi"""	L	poesia 	totale	Aldo Borlenghi	Tra qualche foglia autunnale splendi		"finestra incorniciata (con ""Più che una stella cadente…"")"
-1946-03-01	01/03/1946	2	Aldo Borlenghi	"""Più che una stella cadente..."""	L	poesia 	totale	Aldo Borlenghi	Più che una stella cadente…		
-1946-03-01	01/03/1946	2	Pablo Picasso	Guernica 	I	riflessione su Picasso (in forma di lettera)	no	Ennio Morlotti	Lettera a Picasso	"menzione di periodici critici d'arte e collaboratori (ta cui Morlotti) che hanno promesso scritti a Libera Stampa, come la ""Lettera a Picasso"""	
-1946-03-01	01/03/1946	2			L	lettera di due lettori e risposta	qualche verso del compagno Gerosa	R. Manzoni, G. Gerosa e Redazione	Incontri con i lettori	riflette sul carattere della pagina letteraria. Redazione annuncia apertura rubrica settimanale per scambi idee con lettori	
-1946-03-01	01/03/1946	2		Selenio	L	poesia 	totale		Selenio		finestra incorniciata con grafica 2 zebre
-1946-03-08	08/03/1946	2	vari autori (tanti americani)	varie	L	risposta ad un lettore che chiede commento  su vari autori americani (Hemingway, Faulkner, Steinbeck, Cadwell) + Pavese e Belli	no	Rinaldo Manzoni e Redazione	"trafiletti ""Furore piace anche a noi.."", ""Faulkner.."", ""…o Steinbeck"", ""Faulkner!"", ""E Caldwell?"", ""Preferiamo Pavese"", ""Omaggio al Belli"""		
-1946-03-08	08/03/1946	2	Gioacchino Belli		L	sonetto a conclusione della risposta di sopra	totale		"""Omaggio al Belli"" (nella risposta a R. Manzoni)"		
-1946-03-08	08/03/1946	2	Dolores 		L	commento sui versi ricevuti	un verso	Redazione	Rispostina	si risponde (piuttosto criticamente) a una lettrice che ha inviato qualche verso da pubblicare	
-1946-03-08	08/03/1946	2			L	risposta ad un lettore (concorso romanzo a puntate)		Lettore G.F e Redazione	"""Per un romanzo a puntate"""	"risposta ad un lettore che chiede opinione sul concorso ( di ""Svizzera Italiana""?) per un romanzo a puntate (criticato)"	
-1946-03-08	08/03/1946	2 e 3	Ugo Canonica	"""La voce del padre"""	L	opinione sul libro di Canonica	no	Eleuterio (lettore)	"""Ancora la voce del padre"""	risponde al pezzo di Frey su Canonica (23 febb)	
-1946-03-15	15/03/1946	2	Alberto Moravia	varie	L	commento sulla produzione di Moravia 	no	G.C.	"""Nota a Moravia. (Premio Corriere Lombardo)"""	"In occasione della vittoria del ""Premio Corriere Lombardo"" da parte di Moravia"	
-1946-03-15	15/03/1946	2	Luis Cane	"""Pilar"""	L	poesia 	totale	Luis Cane (Traduzione di F. C.)	Pilar		finestra incorniciata
-1946-03-15	15/03/1946	2			L	riflessione sulla poesia		Salvatore Quasimodo	L'uomo e la poesia	"dall' ""Avanti!"" di Milano"	
-1946-03-15	15/03/1946	2	Carlo Levi	"""Cristo si è fermato a Eboli"""	L	recensione del libro	no	Guglielmo Clerici	Cristo si è fermato a Eboli		
-1946-03-22	22/03/1946	2	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (1° parte)	si (1° parte)		"""Mandateci le vostre poesie, i vostri racconti"" - abbiamo scritto. Ed ecco la prima risposta: si chiama Giuseppe Scorti, parrucchiere e narratore. La nostra pagina sta instaurando nel Ticino una letteratura nuova: la letteratura degli umili e dei lavoratori."	introdotto da lettera allegata al racconto e risposta della Redazione	
-1946-03-22	22/03/1946	2 e 3			I	articolo su mostra artistica	no	Ugo Frey	Legni giapponesi alla Kunsthalle di Basilea		finestra
-1946-04-05	05/04/1946	2	Berto Vassalli	"""L'osteria dei vecchi"""	L	racconto	si (totale?)		"""Dopo Scorti è la volta di BERTO VASSALLI, fattorino del telegrafo. Esiste nel Ticino un filone di narratori? Le nostre prime due scoperte lo fanno supporre"""	Nota di commento su quanto ricevuto dai lettori in seguito all'appello	
-1946-04-05	05/04/1946	2	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (2° parte) 	si (2° parte)		"""Dopo Scorti è la volta di BERTO VASSALLI, fattorino del telegrafo. Esiste nel Ticino un filone di narratori? Le nostre prime due scoperte lo fanno supporre"""	premessa (della Redazione) che annuncia la pubblicazione completa (a puntate) del racconto di Scorti	
-1946-04-05	05/04/1946	2			L	"presentazione della rivista  ""Belle Lettere"""		Redazione	Belle Lettere	"critica verso la rivista ""Svizzera italiana"""	finestra
-1946-04-12	12/04/1946	2	Giorgio De Chirico		I	articolo sul pittore De Chirico	no	Monssino	racconta un incontro con De Chirico in occasione della sua presenza a Roma		
-1946-04-12	12/04/1946	2	Mario Moglia		I	breve commento sullo stile di Moglia	"un' immagine (""Composizione""?)"				
-1946-04-12	12/04/1946	2	Ugo Frey	"""L'ora"""	L	poesia 	totale	Ugo Frey	L'ora		finestra incorniciata
-1946-04-12	12/04/1946	2	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (3° parte) 	si (3° parte)		Sfumatura bassa		
-1946-04-20	20/04/1946	3	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (4° parte) 	si (4° parte)		Sfumatura bassa		
-1946-04-20	20/04/1946	3	Pietro Salati	"""Ritratto di Aldo Borlenghi"""	I	immagine	si		PIETRO SALATI: Ritratto di Aldo Borlenghi		
-1946-04-20	20/04/1946	3	Berto Vassalli	"""I pesci in trappola"""	L	racconto 	totale	Berto Vassalli	I pesci in trappola		
-1946-04-20	20/04/1946	3	Renzo Modesti	"""Gandria"""	L	poesia 	totale	Renzo Modesti	Gandria		finestra incorniciata
-1946-04-20	20/04/1946	3	Piero Bianconi (a c. di Mario Agliati)	"""Pagine scelte"""	L	presentazione raccolta di Bianconi, curata da Mario Agliati	una cit (di Agliati su Bianconi)		Una scelta delle opere bianconiane	indicazione bibliografica della raccolta	
-1946-04-20	20/04/1946	3				breve commento sull'artisticità del Sopraceneri		ps	VARIETÀ. Piccolo cabotaggio	riflessione nata da un recente viaggio oltre Monte Ceneri	
-1946-04-20	20/04/1946	3	Marino Marini	Ritratto	I	immagine	si		Marino Marini: Ritratto		
-1946-04-20	20/04/1946	3	vari		L	risposta ad un lettore in merito ad autori contemporanei	no	lettore C. E. e Redazione	Incontri coi lettori	breve lettera di C. E. che chiede consiglio su autori italiani contemporanei e risposta della Redazione che indica diversi nomi	
-1946-05-01	01/05/1946	15	Pablo Picasso	"""La maternità"""	I	immagine	si		Pablo Picasso: in maternità		
-1946-05-01	01/05/1946	15	Franco Fortini	"""Coro dell'ultimo atto"""	L	poesia  e qualche riga sull'autore	totale		Coro dell'ultimo atto, di Franco Fortini		
-1946-05-01	01/05/1946	15	Eugenio Montale	"""11 agosto 1944"""	L	poesia  e qualche riga sull'autore (+  sua foto)	totale		11 agosto 1944, di Eugenio Montale		
-1946-05-01	01/05/1946	15	Tommaso Giglio	"""Lettera a un compagno"""	L	poesia  e qualche riga sull'autore	totale		Lettera a un compagno, di Tommaso Giglio		
-1946-05-01	01/05/1946	15	Morandi	"""Natura morta"""	I	immagine e breve commento sullo stile dell'artista	si		Morandi: Natura morta		
-1946-05-01	01/05/1946	15	Charles Poncy		L	poesia  e breve commento su circostanze di redazione e autore	si		Scritta da un operaio francese nel 1843		
-1946-05-01	01/05/1946	15				articolo sull'arte contemporanea		Pietro Salati	Rapporti fra arte e vita. Di Pietro Salati		
-1946-05-01	01/05/1946	15	Pablo Picasso	"""La corrida"""	I	immagine	si		Pablo Picasso: la corrida		
-1946-05-01	01/05/1946	15	Sergio Maspoli	"""Fontanin"""	L	poesia 	totale	Sergio Maspoli	Fontanin di Sergio Maspoli		
-1946-05-01	01/05/1946	15	Paule Eluard	"""Couvre feu"""	L	poesia  e breve commento su autore	totale	Paul Eluard	Couvre feu di Paul Eluard		
-1946-05-03	03/05/1946	2			I	prefazione a serie 3 volumi sugli affreschi italiani		Giuseppe De Logu	Nel segno dell'intesa spirituale italo-svizzera (…). L'affresco italiano	prefazione che De Logu ha scritto per la serie di volumi sugli affreschi italiani che si stamperà a ZH. Introdotta da un paio di righe che la contestualizzano	
-1946-05-03	03/05/1946	2 e 3	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (5° parte)	si (5° parte)		Sfumatura bassa		
-1946-05-03	03/05/1946	2	Giovan-Battista Corti		I	articolo per ricordare il pittore, appena morto	no	B.	Giovan-Battista Corti		
-1946-05-10	10/05/1946	2	Beniamino Joppolo	"""La giostra di Michele Civa"""	L	presentazione del libro (ed Bompiani)	no	P.S.	Varietà. La giostra di Michele Civa		
-1946-05-10	10/05/1946	2	Tommaso Landolfi	"""Le due zitelle"""	L	presentazione del libro  (ed Bompiani)	no	P.S.	Varietà. Le due zitelle		
-1946-05-10	10/05/1946	2	Beniamino dal Febbro	"""La gioventù perduta"""	L	presentazione del libro (ed Bompiani)	no	P.S.	Varietà. La gioventù perduta		
-1946-05-10	10/05/1946	2			L	"presentazione della rivista ""Fiera letteraria"""	no	P.S.	"Varietà. Quattro numeri della ""Fiera Letteraria"""	presentazione della rivista diretta da Angioletti (su base dei primi 4 numeri di cui si consigliano due articoli specifici)	
-1946-05-10	10/05/1946	2	Magda Tolossy	"""Il trillo del Diavolo"" di Tartin"	M	articolo sull'esecuzione della violinista Magda Tolossy	no	P.S.	Varietà. Una brillante esecuzione		
-1946-05-10	10/05/1946	2	Mario Marioni	Ritratto	I	immagine e commento sullo stile di Marioni	si		Mario Marioni. Ritratto		
-1946-05-10	10/05/1946	2 e 3	Arturo Honegger		M	intervista a Honegger		Siva	A colloquio con Arturo Honegger. Musica, fim, guerra, resistenza e liberazione		
-1946-05-10	10/05/1946	2	Ugo Frey	"""Immagine"""	L	poesia 	totale		Immagine		finestra incorniciata
-1946-05-10	10/05/1946	2 e3	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (6° parte)	si (6° parte)		Sfumatura bassa		
-1946-05-17	17/05/1946	2 e 3	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (7° parte)	si (7° parte)		Sfumatura bassa		
-1946-05-17	17/05/1946	2	Ferdinando Gioilli	"""Amore sepolto"""	L	poesia 	totale		Amore sepolto	"con indicazione ""Giugno-Luglio 1943"""	finestra incorniciata
-1946-05-17	17/05/1946	2	Antonio Dal  Zotto		I (sculture)	articolo sullo scultore in occasione del 100° dalla sua nascista	no	Carlo Lotti	Un grande scultore dimenticato: Antonio Dal Zotto		
-1946-05-17	17/05/1946	2	Ugo Frey	"""Il nome di sangue (Schema di un sogno)"""	L	racconto	totale		Il nome di sangue. (Schema di un sogno)		con sotto piccola grafica (2 zebre)
-1946-05-24	24/05/1946	2	Ugo Frey	"""Canzone"""	L	poesia 	totale		Canzone		"finestra incorniciata (con ""Annunzio"") "
-1946-05-24	24/05/1946	2	Ugo Frey	"""Annunzio"""	L	poesia 	totale		Annunzio		
-1946-05-24	24/05/1946	2			M	breve articolo sulla posizione politica dei musicisti		E. Z.	Varietà musicale. Arte e politica	"su spunto di un intervista a Pablo Casals pubblicata dal ""Leader Magazine"""	
-1946-05-24	24/05/1946	2			M	breve articolo (difensivo) sull'attività musicale della Svizzera italiana		E. Z.	Varietà musicale. Complimenti… confederati	"reazione ad un articolo del direttore d'orchestra romando  Ansermet pubblicato su rivista ""Horizon"" e riportato (già ironicamente) anche dal ""Nationalzeitung"""	
-1946-05-24	24/05/1946	2	Mario Ribola		I	articolo sul pittore ed il suo stile	un'immagine		Mario Ribola		
-1946-05-24	24/05/1946	2	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (8° parte)	si (8° parte)		Sfumatura bassa		
-1946-05-31	31/05/1946	2	Georges Darel		I	presentazione sulla mostra di Darel 	no	p.s.	Georges Darel al Kunsthaus di Zurigo		
-1946-05-31	31/05/1946	2	Ferdinando Gioilli	"""Foglio di cenere"""	L	poesia 	totale		Foglio di cenere	"""Ad A."""	finestra incorniciata
-1946-05-31	31/05/1946	2	Ugo Frey	"""Uomo alle giostre"""	L	racconto	totale	Ugo Frey	Uomo alle giostre		piccola grafica pesce
-1946-05-31	31/05/1946	2 e 3	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (9° parte)	si (9° parte)		Sfumatura bassa		
-1946-06-07	07/06/1946	2	Tommaso Landolfi	"""Due Zitelle"""	L	presentazione e commento su libro	qualche citazione	Aldo Borlenghi	Le due zittelle		
-1946-06-07	07/06/1946	2	Bruno Morenzoni		I	articolo sullo stile dell'artista	"dipinto e immagine scultura ""testa di ragazza"""		Bruno Morenzoni		
-1946-06-07	07/06/1946	2	Alessandro Bonsanti	"""Introduzione al gran viaggio"""	L	presentazione del racconto	no		Varietà. Introduzione al gran viaggio		
-1946-06-07	07/06/1946	2	Enrico Emanuelli	"""La congiura dei sentimenti"""	L	commento (in ritardo) sul romanzo (ed Mondadori)	no		Varietà. La congiura dei sentimenti		
-1946-06-07	07/06/1946	2	Ugo Canonica	"""La voce del padre"""	L	commento di una recensione incoraggiante a Canonica	no		Varietà. Un autorevole incoraggiamento	"recensione incoraggiante su Ugo Canonica sulla ""Fiera letteraria"""	
-1946-06-07	07/06/1946	2 e 3	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (10° parte) con nota	si (10° parte)		Sfumatura bassa	"nota che fa chiarezza sulle parti: in realtà quella apparsa come ""prima"" (pubblicato come saggio delle capacità dello scrittore) era il capitolo appena precedente al questo, di cui si riassume quindi il contenuto"	
-1946-06-15	15/06/1946	3	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (11° e ultima parte)	si (11° parte)		Sfumatura bassa		
-1946-06-15	15/06/1946	3	Vittorio Sereni	"""Ma se tu mi manchi"""	L	poesia	totale		Ma se tu mi manchi	"con indicazione ""Algeria 1944"""	
-1946-06-15	15/06/1946	3	Ugo Frey	"""Balconi"""	L	poesia	totale		Balconi		
-1946-06-15	15/06/1946	3	Ugo Frey	"""Pena"""	L	poesia	totale		Pena		
-1946-06-15	15/06/1946	3	Jack Belden	"""A morire si è sempre in tempo"""	L	presentazione del libro	no (una riga citazione) e foto libro	A. Nobile-Ventura	A morire si è sempre in tempo		
-1946-06-15	15/06/1946	3	Pietro Salati	"""La battaglia"""	I	dipinto	si		Pietro Salati: La battaglia		
-1946-06-15	15/06/1946	3			L	articolo su premio Schiller '45		E.B.	Varietà. Bonzi da eliminare	"si critica la vittoria di Giuseppe Zoppi (""bonzo"" nostrano), chiedendosi se proprio non ci fossero altri nomi da premiare (meno conosciuti ma più meritevoli)"	
-1946-06-15	15/06/1946	3			L	annuncio pubblicazione di libri di poesia	"poesia di Sereni (""Ma se tu mi manchi"") come anticipazione del suo libro"	E.B.	Varietà. Libri nuovi	si annuncia la prossima pubblicazione di alcuni libri di poesia (Luzi, Fortini, Sereni, Terra)	
-1946-06-15	15/06/1946	3	Mario Bernasconi		I (sculture)	articolo sullo scultore	parziale (foto dell'ultimo lavoro)	ps.	Mario Bernasconi		
-1946-06-21	21/06/1946	2	Giuseppe Scorti	"""La canzone del manovale"""	L	totale	totale		La canzone del manovale		finestra incorniciata
-1946-06-21	21/06/1946	2				articolo di riflessione su metafisica e religione nel/del  socialismo		Thomas Mann	Cristianesimo e socialismo		piccola grafica alla fine (pesce)
-1946-06-21	21/06/1946	2	Bernasconi	"""Busto di ragazzo"""	I (sculture)	immagine	si		BERNASCONI. Busto di ragazzo		
-1946-06-21	21/06/1946	2	Ugo Canonica	"""La fragile gioia"""	L	racconto	totale		La fragile gioia		
-1946-06-21	21/06/1946	2	Ugo Frey	"""Fiori"""	L	poesia	totale		Fiori		
-1946-07-05	05/07/1946	2	Alberto Salvioni		I	articolo su pittore	"due immagini (""San Sebastiano"" e un disegno senza titolo)"	P. Salati	Pittura di Alberto Salvioni		
-1946-07-05	05/07/1946	2	Cena	"""Poesia"""	L	poesia	totale		Poesia		finestra incorniciata
-1946-07-05	05/07/1946	2	Giuseppe Scorti	"""Festa al mio paese"""	L	poesia 	totale		Festa al mio paese		
-1946-07-05	05/07/1946	2 e 3	Giuliano Fausti	"""Un fatto che non interessa"""	L	racconto	totale		Quasi un racconto. Un fatto che non interessa		
-1946-07-12	12/07/1946	2	Ernest Hemingway	"""Addio alle armi"""	L	"presentazione del libro (appena ""degnamente"" tradotto)"	qualche frase	Arturo Tofanelli	Addio alle armi		
-1946-07-12	12/07/1946	2	Poeti della Difesa (Carlo Saggio, Silvio Catalano, Paolo Nobile)		L	"articolo sulla ""Difesa della Poesia"" e sul movimento neo-romantico "	"3 poesie di 3 esponenti (""Gli occhi"" di Saggio, ""Alla vecchia luna"" di Catalano, ""Meditazione"" di nobile)"	A. Nobile-Ventura	Poeti italiani senza lauro all'ombra della dittatura		
-1946-07-12	12/07/1946	2	Umberto Saba	"""Scorciatoie e raccontini"""	L	recensione	no	R.M.	"Su ""scorciatoie e raccontini"" di Saba"		
-1946-07-12	12/07/1946	2	Silvio Catalano	"""Alla vecchia luna"""	L	poesia	totale		Alla vecchia luna		
-1946-07-12	12/07/1946	2	Ferdinando Gioilli	"""Dedica"""	L	poesia con breve cappello intro	totale		* Dedica	"""Questa è l'ultima poesia inedita di Ferdinando Gioilli che pubblichiamo per concludere la serie che ci è stata affidata da un comune amico"""	grafiche (stella prima, pesce dopo)
-1946-07-12	12/07/1946	2		"""Torna la dolce furia del sole"""	L	poesia	totale		Torna la dolce furia del sole		
-1946-07-26	26/07/1946	2	Vittorio Tavernari		I (+sculture)	articolo sull'artista	immagine di una scultura	Renzo Modesti	Vittorio Tavernari		
-1946-07-26	26/07/1946	2	Adriano Soldini	"""Anniversario"""	L	poesia	totale		Anniversario		"finestra incorniciata (insieme a ""Sere d'estate"")"
-1946-07-26	26/07/1946	2	Adriano Soldini	"""Sere d'estate"""	L	poesia	totale		Sere d'estate		
-1946-07-26	26/07/1946	2	H. G. Wells		L	fotografia dell'autore	no (foto con didascalia)		H.G. Wells	didascalia menziona solo l'attacco di Wells alla famiglia reale inglese	
-1946-07-26	26/07/1946	2	Ugo Frey	"""Fontana"""	L	poesia	totale		Fontana	"indicazione ""Alsazia, maggio 1946"""	
-1946-07-26	26/07/1946	2	fam Rossetti		vari	articolo sulla talentuosa famiglia Rossetti	autoritratto di Dante Gabriele Rossetti		La famiglia Rossetti		
-1946-07-26	26/07/1946	2 e 3			C	riflessione sullo stato del cinema	no	Walt Disney	Film del futuro	"da ""Riscatto"""	
-1946-08-02	02/08/1946	2	Aldo Borlenghi	"""Dai cavalli ove è scosso il tramonto"""	L	poesia	totale		Dai cavalli ove è scosso il tramonto		
-1946-08-02	02/08/1946	2	"Ulisse Pocobelli (""Glauco"")"	"""Per voi"""	L	"presentazione libretto di ""Glauco"""	parziale, estratti di 2 poesie	Selenio	"""Per voi"""		
-1946-08-02	02/08/1946	2	Ugo Frey	"""I biglietti rossi"""	L	racconto			I biglietti rossi		
-1946-08-02	02/08/1946	2	Jahier	"""Con me e con gli alpini"""	L	articolo su Jahier (ancora attuale) introdotto da qualche verso	si (parziale)	Giuliano Ferrieri	Con me e con gli alpini		
-1946-08-23	23/08/1946	2	Isidore Ducasse	"""Le chants de Maldoror"	L	estratto (tradotto) dell'opera	si (parziale)	trad. da Ugo Frey	Lampada nel fiume		
-1946-08-23	23/08/1946	2	Kathe Kollwitz	"""Bambino sofferente"""	I	qualche riga su pittrice e  incisione	"foto incisione ""bambino sofferente"""		Bambino sofferente		
-1946-08-23	23/08/1946	2	vari (Froidveaux, Blanchet, Loewer, Stettler, Salati)	qualche opera per ogni pittore	I	presentazione dei 5 pittori che esporranno alla mostra della Ghilda di Lugano	no	A.F.	Cinque artisti svizzeri		
-1946-08-23	23/08/1946	2	vari		I	trafiletto su mostra d'arte italiana a Lucerna, in Notiziario artistico	no		Arte italiana a Lucerna (sotto Notiziario aristico)		
-1946-08-23	23/08/1946	2	vari		I	trafiletto su mostra di opere della Tate-Gallery a Berna, in Notiziario artistico	no		"La ""Tate-Gallery"" a Berna  (sotto Notiziario aristico)"		
-1946-08-30	30/08/1946	2	Giuliano Fausti	"""Il cavallino di legno"""	L	racconto	totale		Il cavallino di legno		
-1946-08-30	30/08/1946	2	P.S.	"""La giostra della vita"""	L	4 raccontini 	totale		La giostra della vita. Parole in una camera d'affitto / Pranzo in pensione / Rievocazione / I cinque soli 		
-1946-08-30	30/08/1946	2	Stipettaio (=Ugo Frey)	"""Il vaticello. Comò"""	L	risposta a Bellinelli (detrattore di Zoppi)	no		Il vaticello. Comò		
-1946-09-06	06/09/1946	2	vari		I	articolo su una mostra d'arte	un immagine (dipinto Bruno Morenzoni)	Mario Moglia	Pittura conteporanea alla XXI Nazionale di Ginevra. (sottocategorie stili pittura)		
-1946-09-06	06/09/1946	2		"""Canzone"""	L	poesia	totale		Canzone		grafiche decorative (tutta la pag in generale)
-1946-09-06	06/09/1946	2			L	risposta di Janner sulla vittoria di Zoppi del premio Schiller	no	Prof. A. Janner	"Ancora sul ""Vaticello"""	commento finale della redazione	
-1947-09-13	13/09/1947	2	vari pittori		I	"articolo su mostra ""Ambrosiana"" a Lucerna"	no	Pietro Salati	"L' ""Ambrosiana"" a Lucerna"		
-1947-09-13	13/09/1947	2	vari pittori		I	"articolo su mostra ""Cento capolavori dei pittori della Scuola di Parigi"""	no	Gino Severini	Una scuola e cento pittori		
-1947-09-13	13/09/1947	2	Ilja Ehrenburg	"""La congiura degli eguali"""	L	breve preserntazione/recensione del libro	no		LETTURE. La congiura degli eguali di Ilja Ehrenburg	indicazioni bibliografiche	
-1947-09-13	13/09/1947	2 e 3	Ernest Hemingway	"""La quinta colonna"""	L	articolo su libro (e autore)		N.R.	LETTURE.La quinta colonna di Ernest Hemingway		
-1946-09-20	20/09/1946				L	articolo su panorama romanzesco italiano contemporaneo 	titoli/nomi autori	Libero Bigiaretti	Un problema che non esiste. È quello del romanzo italiano, di cui tanti lamentano la carenza. Ma i romanzi non nascono su ordinazione; occorre essere in due per farne: lo scrittore e la società	si smentisce la crisi dei romanzi italiani menzionando vari nomi	
-1946-09-20	20/09/1946	2	Tintoretto		I	articolo su opere di Tintoretto raccolte in ambiente veneziano 	no	Carlo Lotti	Tintoretto nella scuola di S. Rocco a Venezia		
-1946-09-20	20/09/1946	2	Alberto Vassalli	"""Sipario con luna"""	L	racconto	totale	Alberto Vassalli	Sipario con luna		
-1946-09-28	28/09/1946	3	Angelo Frattini	"""Bimba allo specchio"""	I	immagine	si				
-1946-09-28	28/09/1946	3	Umberto Vedani	"""Il Cacciatore"""	I	immagine	si				
-1946-09-28	28/09/1946	3	Enrica Turri	"""Paesaggio"""	I	immagine	si				
-1946-09-28	28/09/1946	3	Giovanni Moroni	"""Guido"""	I	immagine	si				
-1946-09-28	28/09/1946	3				articolo su cultura, immaginazione, …		Carlo Bo	Non cedere al tempo		
-1946-09-28	28/09/1946	3	Felice Filippini	"""Colori della fine"""	L	racconto	totale	Felice Filippini	Colori della fine. Un frammento		
-1946-09-28	28/09/1946	3	vari artisti		I	articolo su mosta d'arte	no	E.C.	Artisti di Varese alla Ghilda del libro		
-1946-09-28	28/09/1946	3				articolo su cultura, guerra, ..	no	Vittorio Sereni	Funzione rispetto alla società		
-1946-09-28	28/09/1946	3	Gioacchino Toma	"""Ricordi di un orfano"""	L	presentazione-recensione del libro	no	L.A.	LETTURE. Ricordi di Toma		
-1946-09-28	28/09/1946	3	Cesare Pavese	"""Paesi tuoi"""	L	trafiletto su autore e sue opere	no (menzione titoli)	N.B.	LETTURE. Fiera d'agosto		
-1946-10-04	04/10/1946	2	Arturo Tofanelli	"""I topi"""	L	racconto	totale		I topi		
-1946-10-04	04/10/1946	2	Ugo Frey	"""Linfa"""	L	poesia	totale		Linfa		
-1946-10-04	04/10/1946	2	Ugo Frey	"""Giapponese"""	L	poesia	totale		Giapponese		
-1946-10-04	04/10/1946	2	Ugo Frey	"""Autunno"""	L	poesia	totale		Autunno		
-1946-10-04	04/10/1946	2	Luigi Comencini	"""Così fu la fine"""	L	racconto	totale		Così fu la fine		
-1946-10-04	04/10/1946	2			I	articolo su mostra d'arte	no		Varietà. Arte astratta a Zurigo		
-1946-10-04	04/10/1946	2				continuazione articolo di 1° pagina su cultura veneziana	no	Giuseppe De Logu	Lettere veneziane (inizia in 1° pag)		
-1946-10-05	05/10/1946	3			I	articolo su artisti ticinesi alla Fiera	xilografia di Felice Filippini e Tempera di Pietro Salati	Eros Bellinelli	Pittori alla fiera		
-1946-10-05	05/10/1946	3	Mario Marioni		I	disegno	si		Disegno di Mario Marioni		
-1946-10-05	05/10/1946	3			C	articolo su studi cinematografici	no		Centro di studi cinematografici a Brera		
-1946-10-11	11/10/1946	2			M	articolo (su tutta la 1/2 pag) sul concorso musicale ginevrino (diviso per sottocateogrie strumentali)	no	dall'inviato speciale N. C.	Il concorso internazionale di esecuzione musicale a Ginevra		
-1946-10-18	18/10/1946	2	Giovanni Corty		I	discorso che ricorda Corty in occasione della sua mostra retrospettiva	no	Aldo Patocchi	Giovanni Corty alla Ghilda	discorso che Patocchi ha tenuto alla Ghilda per introdurre la mostra di Corty (intro di un paio di righe che annunciano la mostra)	
-1946-10-18	18/10/1946	2	Luigi Comencini	"""Tre amici"""	L	racconto	totale		Tre amici		vari elementi grafici (donna/fiore, pesce, 2 zebre)
-1946-10-18	18/10/1946	2	Amedeo Modigliani		I	articolo sull'artista	no	D.C.	Modigliani		
-1946-10-18	18/10/1946	2	Kaete Kollwitz	operaio	I	immagine	si		KAETE KOLLWITZ. Operaio		
-1946-10-25	25/10/1946	2	Franz Kafka	"""Journal intime"""	L	articolo sulla pubblicazione del diario di Kafka	qualche citazione		"""Journal intime"" di Franz Kafka"	appena pubblicato dalla Ghilde du Livre 	
-1946-10-25	25/10/1946	2			L	"articolo sulla nuova poesia, detta ""atomica"" (Francia)"	qualche citazione	u. f.	Se non son matti non li vogliamo OVVERO l'era atomica della poesia…	"su spunto di un articolo del ""Littéraire"""	
-1946-10-25	25/10/1946	2			M	articolo sul festival musicale	no	Ferdinando Ballo	In margine al Festival Musicale di Venezia. Da Strawinsky a Petrassi		
-1946-10-25	25/10/1946	2	G. Titta Rosa	"""Bandiere sugli alberi"""	L	racconto sul giorno della liberazione	totale		Bandiere sugli alberi		
-1946-11-08	08/11/1946	2			I	articolo sulla restaurazione dei dipinti	no	Mario Bezzola	Problemi del restauro dei dipinti, di Mario Bezzola		
-1946-11-08	08/11/1946	2	Ugo Frey	"""Santuario"""	L	poesia	totale		Santuario		finestra incorniciata
-1946-11-15	15/11/1946	2	Ugo Frey	"""Insetto"""	L	poesia	totale		Insetto		finestra incorniciata
-1946-11-15	15/11/1946	2e 3			L	"articolo sul Melzi (dizionario borghese, ""prudente"")"		Libero Bigiaretti	Il novissimo Melzi		
-1946-11-15	15/11/1946	2				articolo su cultura, civiltà,..	no ma menzione di autori/opere	Alberto Vigevani	Esigenza d'una civiltà		
-1946-11-22	22/11/1946	2	Herman Hesse		L	articolo su bio autore e panoramica produzione	una citazione		HERMAN HESSE. Premio Nobel per la letteratura		
-1946-11-22	22/11/1946	2	Ernest Hemingway	"""Addio alle armi"""	L	presenta ultimo libro dell'autore e traduzioni disponibili	no		"""Addio alle armi"" di Hemingway"	ultima pubblicazione della Ghilda del Libro	
-1946-11-22	22/11/1946	2 e 3			I	articolo sul patrimonio artistico austriaco (storia recente e stato), di cui parte esposta a Zurigo	no (qualche menzione artisti/opere)	Giuseppe De Logu	I tesori d'arte dei musei austriaci sono salvi		
-1946-11-29	29/11/1946	2	Aldo Borlenghi	"""Poesia"""	L	poesia	totale		Poesia		finestra incorniciata
-1946-11-29	29/11/1946	2	John Field		M	articolo su bio compositore	no		Un precursore di Chopin		
-1946-11-29	29/11/1946	2	Gianna Manzini	"""Lettera all'editore"""	L	recensione del romanzo	qualche citazione	A.B.	Lettera all'editore		
-1946-11-29	29/11/1946	2	vari menzionati		L	articolo su premi letterari (focus Premio Vendemmia)	no ma menzione di autori/opere		Il Premio della Vendemmia		
-1946-12-06	06/12/1946	2	Vitaliano Brancati		L	relazione della Giuria del premio Vendemmia (vinto da Brancati)		Trilussa, presidente del Premio Vendemmia	Il Premio della Vendemmia a Vitaliano Brancati	riporta la relazione della giuria del premio	
-1946-12-06	06/12/1946	2	Paul Cézanne	"""I giocatori di carte"""	I	dipinto	si				
-1946-12-06	06/12/1946	2			L	articolo su censura URSS secondo direttive Snamja	no		La censura letteraria nell'U.R.S.S.	"riprende le direttive del periodico letterario ""Snamja"", che ""esprime le opinioni dell'esecutivo comunista"""	
-1946-12-06	06/12/1946	2				articolo su università italiana per stranieri a Perugia 	no		Università italiana per stranieri		
-1946-12-06	06/12/1946	2	Jacques de Lacretelle		L	articolo sull autore in occasione della sua confe in CH	no ma menzione di opere + foto		Jacques de Lacretelle		grafica (pesce)
-1946-12-13	13/12/1946	3			L	"articolo che critica pubblicità (caso di Zoppi per pubblicazione ""Con noi e coi nostri classici"" di Reto Roedel)"	no (ma riporta lettera editore allegata)		Della pubblicità		
-1946-12-13	13/12/1946	3	Calgari Guido	"""Coscienza. Breviario del cittadino e del soldato"""	L	riporta articolo dal Caffè che commenta criticamente il libro	qualche citazione	dal Caffè	Della coscienza		
-1946-12-13	13/12/1946	3			L	vignetta umoristica su riviste con un paio di righe di contesto			A Marechiaro	"criticità contro ""Svizzera italiana"" e Arminio Janner"	
-1946-12-20	20/12/1946	2	Pietro Salati	"""Tre poesie"""	L	tre poesie	si		Tre poesie		
-1946-12-20	20/12/1946	2			I	articolo sulla pittura italiana	no	Domenico Cantatore	La pittura italiana contemporanea		
-1946-12-20	20/12/1946	2			L	preserntazione del dizionario letterario Bompiani	no		Dizionario letterario BOMPIANI	lo presenta esponendone anche le varie parti che lo compongono, il team di readazione, ….	
-1946-12-20	20/12/1946	2	Guido Calgari	"conferenza ""Storia e ordinamenti della Svizzera"""		articolo che ironizza sulla buona impressione che lo scrittore Guido Calgari ha fatto in una conferenza nel comasco	no	dalla Provincia	L'anticamera. Nemo propheta in patria		
-											
-											
-SOLO CONTRIBUTI DI ARGOMENTO LINGUISTICO-LETTERARIO	SOLO CONTRIBUTI DI ARGOMENTO LINGUISTICO-LETTERARIO										
-1946-01-04	04/01/1946	2	Luigi Vassella	"""Giovanni Laini: L'uomo e lo scrittore"""	L	presentazione del libro di Vassella su Laini	parziale	u. f.	"LAINI, ""La gloriola invidiata"" ovvero: Il pugnale di legno"		
-1946-01-04	04/01/1946	2	Alfonso Gatto	"""Al congresso d'Italia"""	L	poesia con righe introduttive	totale	-	L'ultima poesia di Alfonso Gatto		
-1946-01-04	04/01/1946	2	Ernest Hemingway	"""Per chi suona la campana"""	L	"annuncia prossima recensione del libro sulla rubrica e menziona le critiche del Vaticano (""Osservatore Romano""), riportando la risposta di Vittorini"	no	Elio Vittorini	"""Per chi suona la campana"", di Hemingway, suona anche per il Vaticano"		
-1946-01-11	11/01/1946	2	Firtz Gruenbaum e Paul Morgan	"""La canzone di Buchenwald"""	L	poesia con commento di contesto	totale	Eros Bellinelli	La canzone di Buchenwald		
-1946-01-11	11/01/1946	2 e 3	Pietro Salati	"""Tony Spada"""	L	racconto 	totale	Pietro Salati	Un racconto di Pietro Salati. Tony Spada		
-1946-01-18	18/01/1946	2	Roberto Zerboni	"""Saint-Malo'"""	L	poesia 	totale		Saint-Malò		
-1946-01-25	25/01/1946	2	Pietro Salati	"""La ragnatela nel cielo"""	L	racconto 	totale	Pietro Salati	La ragnatela nel cielo		
-1946-01-25	25/01/1946	2	Ugo Frey	"""Stazioni del nord"""	L	racconto 	totale	Ugo Frey	Stazioni del nord		
-1946-01-25	25/01/1946	2	Ugo Frey	"""Lavoro"""	L	poesia 	totale	Ugo Frey	Lavoro		
-1946-01-25	25/01/1946	2	Roberto Zerboni	"""L'angelo del Bernini"""	L	poesia 	totale	Roberto Zerboni	L'angelo del Bernini		
-1946-02-08	08/02/1946	2	Aldo Borlenghi	"""Dai cavalli ove è scosso il tramonto"""	L	poesia 	totale	Aldo Borlenghi	Dai cavalli ove è scosso il tramonto		
-1946-02-08	08/02/1946	2	Pietro Salati	Viaggio sentimentale	L	racconto	totale	Pietro Salati	Viaggio sentimentale		
-1946-02-15	15/02/1946	2	Arrigo Benedetti	"""Paura all'alba"""	L	recensione libro	qualche citazione	Aldo Borlenghi	Paura all'alba		
-1946-02-15	15/02/1946	2	Rafael Estrada	"""Soldati messicani"""	L	poesia 	totale	Rafael Estrada (traduzione di F.C.)	Soldati messicani		
-1946-02-22	22/02/1946	2	 (poesia popolare argentina)	"""La casa dell'amor triste"""	L	poesia riportata	totale	tradotta da F.C.	La casa dell'amor triste		
-1946-02-22	22/02/1946	2	Ugo Canonica	"""La voce del padre"""	L	difesa del libro di Canonica	qualche citazione	Ugo Frey	Il tentativo di un giovane ticinese		
-1946-02-23	23/02/1946	4	Giorgio Orelli	"""Quest'altro mattino"""	L	poesia	totale		Quest'altro mattino		
-1946-02-23	23/02/1946	4	Giorgio Orelli	"""Sasso Corbaro"""	L	poesia	totale		Sasso Corbaro		
-1946-02-23	23/02/1946	4	Pietro Salati	"""Notte militare"""	L	poesia	totale		Notte militare		
-1946-02-23	23/02/1946	4	Pietro Salati	"""Più che un ricordo"""	L	poesia	totale		Più che un ricordo		
-1946-02-23	23/02/1946	4	Ugo Frey	"""Parole"""	L	poesia	totale		Parole		
-1946-02-23	23/02/1946	4	Ugo Frey	"""Amica"""	L	poesia	totale		Amica		
-1946-02-23	23/02/1946	4	Felice Filippini	"""Fola"""	L	poesia	totale		Fola		
-1946-02-23	23/02/1946	4	Amleto Pedroli	"""Forse mi segue ancora"""	L	poesia	totale		Forse mi segue ancora		
-1946-02-23	23/02/1946	4	Amleto Pedroli	"""Frammento"""	L	poesia	totale		Frammento		
-1946-02-23	23/02/1946	4	Tarcisio Poma	"""Se qualcuno t'aspetta"""	L	poesia	totale		Se qualcuno t'aspetta		
-1946-02-23	23/02/1946	4	Pericle Patocchi	"""Noce"""	L	poesia	totale		Noce		
-1946-02-23	23/02/1946	4	Pericle Patocchi ??	"""Pianura"""	L	poesia	totale		Pianura		
-1946-02-23	23/02/1946	4	Adolfo Jenni	"""Cielo cupo farebbe scoperto"""	L	poesia	totale		Cielo cupo farebbe scoperto		
-1946-02-23	23/02/1946	4	S. Maspoli	"""La desolazione. Parco Ciani"""	L	poesia	totale		La desolazione		
-1946-02-23	23/02/1946	4	S. Maspoli	"""Lapid di vecc"""	L	poesia	totale		Lapid di vecc		
-1946-02-23	23/02/1946	4	Tarcisio Poma	"""Più oltre non incedere"""	L	poesia	totale		Più oltre non incedere		
-1946-02-23	23/02/1946	4	Vinicio Salati	"""Finestre senza vetro"""	L	poesia	totale		Finestre senza vetro		
-1946-03-01	01/03/1946	2	Aldo Borlenghi	"""Tra qualche foglia autunnale splendi"""	L	poesia 	totale	Aldo Borlenghi	Tra qualche foglia autunnale splendi		
-1946-03-01	01/03/1946	2	Aldo Borlenghi	"""Più che una stella cadente..."""	L	poesia 	totale	Aldo Borlenghi	Più che una stella cadente…		
-1946-03-01	01/03/1946	2			L	lettera di due lettori e risposta	qualche verso del compagno Gerosa	R. Manzoni, G. Gerosa e Redazione	Incontri con i lettori		
-1946-03-01	01/03/1946	2		Selenio	L	poesia 	totale		Selenio		
-1946-03-08	08/03/1946	2	vari autori (tanti americani)	varie	L	risposta ad un lettore che chiede commento  su vari autori americani (Hemingway, Faulkner, Steinbeck, Cadwell) + Pavese e Belli	no	Rinaldo Manzoni e Redazione	"trafiletti ""Furore piace anche a noi.."", ""Faulkner.."", ""…o Steinbeck"", ""Faulkner!"", ""E Caldwell?"", ""Preferiamo Pavese"", ""Omaggio al Belli"""		
-1946-03-08	08/03/1946	2	Gioacchino Belli		L	sonetto a conclusione della risposta di sopra	totale		"""Omaggio al Belli"" (nella risposta a R. Manzoni)"		
-1946-03-08	08/03/1946	2	Dolores 		L	commento sui versi ricevuti	un verso	Redazione	Rispostina		
-1946-03-08	08/03/1946	2			L	risposta ad un lettore (concorso romanzo a puntate)		Lettore G.F e Redazione	"""Per un romanzo a puntate"""		
-1946-03-08	08/03/1946	2 e 3	Ugo Canonica	"""La voce del padre"""	L	opinione sul libro di Canonica	no	Eleuterio (lettore)	"""Ancora la voce del padre"""		
-1946-03-15	15/03/1946	2	Alberto Moravia	varie	L	commento sulla produzione di Moravia 	no	G.C.	"""Nota a Moravia. (Premio Corriere Lombardo)"""		
-1946-03-15	15/03/1946	2	Luis Cane	"""Pilar"""	L	poesia 	totale	Luis Cane (Traduzione di F. C.)	Pilar		
-1946-03-15	15/03/1946	2			L	riflessione sulla poesia		Salvatore Quasimodo	L'uomo e la poesia		
-1946-03-15	15/03/1946	2	Carlo Levi	"""Cristo si è fermato a Eboli"""	L	recensione del libro	no	Guglielmo Clerici	Cristo si è fermato a Eboli		
-1946-03-22	22/03/1946	2	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (1° parte)	si (1° parte)		"""Mandateci le vostre poesie, i vostri racconti"" - abbiamo scritto. Ed ecco la prima risposta: si chiama Giuseppe Scorti, parrucchiere e narratore. La nostra pagina sta instaurando nel Ticino una letteratura nuova: la letteratura degli umili e dei lavoratori."		
-1946-04-05	05/04/1946	2	Berto Vassalli	"""L'osteria dei vecchi"""	L	racconto	si (totale?)		"""Dopo Scorti è la volta di BERTO VASSALLI, fattorino del telegrafo. Esiste nel Ticino un filone di narratori? Le nostre prime due scoperte lo fanno supporre"""		
-1946-04-05	05/04/1946	2	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (2° parte) 	si (2° parte)		"""Dopo Scorti è la volta di BERTO VASSALLI, fattorino del telegrafo. Esiste nel Ticino un filone di narratori? Le nostre prime due scoperte lo fanno supporre"""		
-1946-04-05	05/04/1946	2			L	"presentazione della rivista  ""Belle Lettere"""		Redazione	Belle Lettere		
-1946-04-12	12/04/1946	2	Ugo Frey	"""L'ora"""	L	poesia 	totale	Ugo Frey	L'ora		
-1946-04-12	12/04/1946	2	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (3° parte) 	si (3° parte)		Sfumatura bassa		
-1946-04-20	20/04/1946	3	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (4° parte) 	si (4° parte)		Sfumatura bassa		
-1946-04-20	20/04/1946	3	Berto Vassalli	"""I pesci in trappola"""	L	racconto 	totale	Berto Vassalli	I pesci in trappola		
-1946-04-20	20/04/1946	3	Renzo Modesti	"""Gandria"""	L	poesia 	totale	Renzo Modesti	Gandria		
-1946-04-20	20/04/1946	3	Piero Bianconi (a c. di Mario Agliati)	"""Pagine scelte"""	L	presentazione raccolta di Bianconi, curata da Mario Agliati	una cit (di Agliati su Bianconi)		Una scelta delle opere bianconiane		
-1946-04-20	20/04/1946	3	vari		L	risposta ad un lettore in merito ad autori contemporanei	no	lettore C. E. e Redazione	Incontri coi lettori		
-1946-05-01	01/05/1946	15	Franco Fortini	"""Coro dell'ultimo atto"""	L	poesia  e qualche riga sull'autore	totale		Coro dell'ultimo atto, di Franco Fortini		
-1946-05-01	01/05/1946	15	Eugenio Montale	"""11 agosto 1944"""	L	poesia  e qualche riga sull'autore (+  sua foto)	totale		11 agosto 1944, di Eugenio Montale		
-1946-05-01	01/05/1946	15	Tommaso Giglio	"""Lettera a un compagno"""	L	poesia  e qualche riga sull'autore	totale		Lettera a un compagno, di Tommaso Giglio		
-1946-05-01	01/05/1946	15	Charles Poncy		L	poesia  e breve commento su circostanze di redazione e autore	si		Scritta da un operaio francese nel 1843		
-1946-05-01	01/05/1946	15	Sergio Maspoli	"""Fontanin"""	L	poesia 	totale	Sergio Maspoli	Fontanin di Sergio Maspoli		
-1946-05-01	01/05/1946	15	Paule Eluard	"""Couvre feu"""	L	poesia  e breve commento su autore	totale	Paul Eluard	Couvre feu di Paul Eluard		
-1946-05-03	03/05/1946	2 e 3	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (5° parte)	si (5° parte)		Sfumatura bassa		
-1946-05-10	10/05/1946	2	Beniamino Joppolo	"""La giostra di Michele Civa"""	L	presentazione del libro (ed Bompiani)	no	P.S.	Varietà. La giostra di Michele Civa		
-1946-05-10	10/05/1946	2	Tommaso Landolfi	"""Le due zitelle"""	L	presentazione del libro  (ed Bompiani)	no	P.S.	Varietà. Le due zitelle		
-1946-05-10	10/05/1946	2	Beniamino dal Febbro	"""La gioventù perduta"""	L	presentazione del libro (ed Bompiani)	no	P.S.	Varietà. La gioventù perduta		
-1946-05-10	10/05/1946	2			L	"presentazione della rivista ""Fiera letteraria"""	no	P.S.	"Varietà. Quattro numeri della ""Fiera Letteraria"""		
-1946-05-10	10/05/1946	2	Ugo Frey	"""Immagine"""	L	poesia 	totale		Immagine		
-1946-05-10	10/05/1946	2 e3	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (6° parte)	si (6° parte)		Sfumatura bassa		
-1946-05-17	17/05/1946	2 e 3	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (7° parte)	si (7° parte)		Sfumatura bassa		
-1946-05-17	17/05/1946	2	Ferdinando Gioilli	"""Amore sepolto"""	L	poesia 	totale		Amore sepolto		
-1946-05-17	17/05/1946	2	Ugo Frey	"""Il nome di sangue (Schema di un sogno)"""	L	racconto	totale		Il nome di sangue. (Schema di un sogno)		
-1946-05-24	24/05/1946	2	Ugo Frey	"""Canzone"""	L	poesia 	totale		Canzone		
-1946-05-24	24/05/1946	2	Ugo Frey	"""Annunzio"""	L	poesia 	totale		Annunzio		
-1946-05-24	24/05/1946	2	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (8° parte)	si (8° parte)		Sfumatura bassa		
-1946-05-31	31/05/1946	2	Ferdinando Gioilli	"""Foglio di cenere"""	L	poesia 	totale		Foglio di cenere		
-1946-05-31	31/05/1946	2	Ugo Frey	"""Uomo alle giostre"""	L	racconto	totale	Ugo Frey	Uomo alle giostre		
-1946-05-31	31/05/1946	2 e 3	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (9° parte)	si (9° parte)		Sfumatura bassa		
-1946-06-07	07/06/1946	2	Tommaso Landolfi	"""Due Zitelle"""	L	presentazione e commento su libro	qualche citazione	Aldo Borlenghi	Le due zittelle		
-1946-06-07	07/06/1946	2	Alessandro Bonsanti	"""Introduzione al gran viaggio"""	L	presentazione del racconto	no		Varietà. Introduzione al gran viaggio		
-1946-06-07	07/06/1946	2	Enrico Emanuelli	"""La congiura dei sentimenti"""	L	commento (in ritardo) sul romanzo (ed Mondadori)	no		Varietà. La congiura dei sentimenti		
-1946-06-07	07/06/1946	2	Ugo Canonica	"""La voce del padre"""	L	commento di una recensione incoraggiante a Canonica	no		Varietà. Un autorevole incoraggiamento		
-1946-06-07	07/06/1946	2 e 3	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (10° parte) con nota	si (10° parte)		Sfumatura bassa		
-1946-06-15	15/06/1946	3	Giuseppe Scorti	"""Sfumatura bassa"""	L	racconto (11° e ultima parte)	si (11° parte)		Sfumatura bassa		
-1946-06-15	15/06/1946	3	Vittorio Sereni	"""Ma se tu mi manchi"""	L	poesia	totale		Ma se tu mi manchi		
-1946-06-15	15/06/1946	3	Ugo Frey	"""Balconi"""	L	poesia	totale		Balconi		
-1946-06-15	15/06/1946	3	Ugo Frey	"""Pena"""	L	poesia	totale		Pena		
-1946-06-15	15/06/1946	3	Jack Belden	"""A morire si è sempre in tempo"""	L	presentazione del libro	no (una riga citazione) e foto libro	A. Nobile-Ventura	A morire si è sempre in tempo		
-1946-06-15	15/06/1946	3			L	articolo su premio Schiller '45		E.B.	Varietà. Bonzi da eliminare		
-1946-06-15	15/06/1946	3			L	annuncio pubblicazione di libri di poesia	"poesia di Sereni (""Ma se tu mi manchi"") come anticipazione del suo libro"	E.B.	Varietà. Libri nuovi		
-1946-06-21	21/06/1946	2	Giuseppe Scorti	"""La canzone del manovale"""	L	totale	totale		La canzone del manovale		
-1946-06-21	21/06/1946	2	Ugo Canonica	"""La fragile gioia"""	L	racconto	totale		La fragile gioia		
-1946-06-21	21/06/1946	2	Ugo Frey	"""Fiori"""	L	poesia	totale		Fiori		
-1946-07-05	05/07/1946	2	Cena	"""Poesia"""	L	poesia	totale		Poesia		
-1946-07-05	05/07/1946	2	Giuseppe Scorti	"""Festa al mio paese"""	L	poesia 	totale		Festa al mio paese		
-1946-07-05	05/07/1946	2 e 3	Giuliano Fausti	"""Un fatto che non interessa"""	L	racconto	totale		Quasi un racconto. Un fatto che non interessa		
-1946-07-12	12/07/1946	2	Ernest Hemingway	"""Addio alle armi"""	L	"presentazione del libro (appena ""degnamente"" tradotto)"	qualche frase	Arturo Tofanelli	Addio alle armi		
-1946-07-12	12/07/1946	2	Poeti della Difesa (Carlo Saggio, Silvio Catalano, Paolo Nobile)		L	"articolo sulla ""Difesa della Poesia"" e sul movimento neo-romantico "	"3 poesie di 3 esponenti (""Gli occhi"" di Saggio, ""Alla vecchia luna"" di Catalano, ""Meditazione"" di nobile)"	A. Nobile-Ventura	Poeti italiani senza lauro all'ombra della dittatura		
-1946-07-12	12/07/1946	2	Umberto Saba	"""Scorciatoie e raccontini"""	L	recensione	no	R.M.	"Su ""scorciatoie e raccontini"" di Saba"		
-1946-07-12	12/07/1946	2	Silvio Catalano	"""Alla vecchia luna"""	L	poesia	totale		Alla vecchia luna		
-1946-07-12	12/07/1946	2	Ferdinando Gioilli	"""Dedica"""	L	poesia con breve cappello intro	totale		* Dedica		
-1946-07-12	12/07/1946	2		"""Torna la dolce furia del sole"""	L	poesia	totale		Torna la dolce furia del sole		
-1946-07-26	26/07/1946	2	Adriano Soldini	"""Anniversario"""	L	poesia	totale		Anniversario		
-1946-07-26	26/07/1946	2	Adriano Soldini	"""Sere d'estate"""	L	poesia	totale		Sere d'estate		
-1946-07-26	26/07/1946	2	H. G. Wells		L	fotografia dell'autore	no (foto con didascalia)		H.G. Wells		
-1946-07-26	26/07/1946	2	Ugo Frey	"""Fontana"""	L	poesia	totale		Fontana		
-1946-08-02	02/08/1946	2	Aldo Borlenghi	"""Dai cavalli ove è scosso il tramonto"""	L	poesia	totale		Dai cavalli ove è scosso il tramonto		
-1946-08-02	02/08/1946	2	"Ulisse Pocobelli (""Glauco"")"	"""Per voi"""	L	"presentazione libretto di ""Glauco"""	parziale, estratti di 2 poesie	Selenio	"""Per voi"""		
-1946-08-02	02/08/1946	2	Ugo Frey	"""I biglietti rossi"""	L	racconto			I biglietti rossi		
-1946-08-02	02/08/1946	2	Jahier	"""Con me e con gli alpini"""	L	articolo su Jahier (ancora attuale) introdotto da qualche verso	si (parziale)	Giuliano Ferrieri	Con me e con gli alpini		
-1946-08-23	23/08/1946	2	Isidore Ducasse	"""Le chants de Maldoror"	L	estratto (tradotto) dell'opera	si (parziale)	trad. da Ugo Frey	Lampada nel fiume		
-1946-08-30	30/08/1946	2	Giuliano Fausti	"""Il cavallino di legno"""	L	racconto	totale		Il cavallino di legno		
-1946-08-30	30/08/1946	2	P.S.	"""La giostra della vita"""	L	4 raccontini 	totale		La giostra della vita. Parole in una camera d'affitto / Pranzo in pensione / Rievocazione / I cinque soli 		
-1946-08-30	30/08/1946	2	Stipettaio (=Ugo Frey)	"""Il vaticello. Comò"""	L	risposta a Bellinelli (detrattore di Zoppi)	no		Il vaticello. Comò		
-1946-09-06	06/09/1946	2		"""Canzone"""	L	poesia	totale		Canzone		
-1946-09-06	06/09/1946	2			L	risposta di Janner sulla vittoria di Zoppi del premio Schiller	no	Prof. A. Janner	"Ancora sul ""Vaticello"""		
-1947-09-13	13/09/1947	2	Ilja Ehrenburg	"""La congiura degli eguali"""	L	breve preserntazione/recensione del libro	no		LETTURE. La congiura degli eguali di Ilja Ehrenburg		
-1947-09-13	13/09/1947	2 e 3	Ernest Hemingway	"""La quinta colonna"""	L	articolo su libro (e autore)		N.R.	LETTURE.La quinta colonna di Ernest Hemingway		
-1946-09-20	20/09/1946				L	articolo su panorama romanzesco italiano contemporaneo 	titoli/nomi autori	Libero Bigiaretti	Un problema che non esiste. È quello del romanzo italiano, di cui tanti lamentano la carenza. Ma i romanzi non nascono su ordinazione; occorre essere in due per farne: lo scrittore e la società		
-1946-09-20	20/09/1946	2	Alberto Vassalli	"""Sipario con luna"""	L	racconto	totale	Alberto Vassalli	Sipario con luna		
-1946-09-28	28/09/1946	3	Felice Filippini	"""Colori della fine"""	L	racconto	totale	Felice Filippini	Colori della fine. Un frammento		
-1946-09-28	28/09/1946	3	Gioacchino Toma	"""Ricordi di un orfano"""	L	presentazione-recensione del libro	no	L.A.	LETTURE. Ricordi di Toma		
-1946-09-28	28/09/1946	3	Cesare Pavese	"""Paesi tuoi"""	L	trafiletto su autore e sue opere	no (menzione titoli)	N.B.	LETTURE. Fiera d'agosto		
-1946-10-04	04/10/1946	2	Arturo Tofanelli	"""I topi"""	L	racconto	totale		I topi		
-1946-10-04	04/10/1946	2	Ugo Frey	"""Linfa"""	L	poesia	totale		Linfa		
-1946-10-04	04/10/1946	2	Ugo Frey	"""Giapponese"""	L	poesia	totale		Giapponese		
-1946-10-04	04/10/1946	2	Ugo Frey	"""Autunno"""	L	poesia	totale		Autunno		
-1946-10-04	04/10/1946	2	Luigi Comencini	"""Così fu la fine"""	L	racconto	totale		Così fu la fine		
-1946-10-18	18/10/1946	2	Luigi Comencini	"""Tre amici"""	L	racconto	totale		Tre amici		
-1946-10-25	25/10/1946	2	Franz Kafka	"""Journal intime"""	L	articolo sulla pubblicazione del diario di Kafka	qualche citazione		"""Journal intime"" di Franz Kafka"		
-1946-10-25	25/10/1946	2			L	"articolo sulla nuova poesia, detta ""atomica"" (Francia)"	qualche citazione	u. f.	Se non son matti non li vogliamo OVVERO l'era atomica della poesia…		
-1946-10-25	25/10/1946	2	G. Titta Rosa	"""Bandiere sugli alberi"""	L	racconto sul giorno della liberazione	totale		Bandiere sugli alberi		
-1946-11-08	08/11/1946	2	Ugo Frey	"""Santuario"""	L	poesia	totale		Santuario		
-1946-11-15	15/11/1946	2	Ugo Frey	"""Insetto"""	L	poesia	totale		Insetto		
-1946-11-15	15/11/1946	2e 3			L	"articolo sul Melzi (dizionario borghese, ""prudente"")"		Libero Bigiaretti	Il novissimo Melzi		
-1946-11-22	22/11/1946	2	Herman Hesse		L	articolo su bio autore e panoramica produzione	una citazione		HERMAN HESSE. Premio Nobel per la letteratura		
-1946-11-22	22/11/1946	2	Ernest Hemingway	"""Addio alle armi"""	L	presenta ultimo libro dell'autore e traduzioni disponibili	no		"""Addio alle armi"" di Hemingway"		
-1946-11-29	29/11/1946	2	Aldo Borlenghi	"""Poesia"""	L	poesia	totale		Poesia		
-1946-11-29	29/11/1946	2	Gianna Manzini	"""Lettera all'editore"""	L	recensione del romanzo	qualche citazione	A.B.	Lettera all'editore		
-1946-11-29	29/11/1946	2	vari menzionati		L	articolo su premi letterari (focus Premio Vendemmia)	no ma menzione di autori/opere		Il Premio della Vendemmia		
-1946-12-06	06/12/1946	2	Vitaliano Brancati		L	relazione della Giuria del premio Vendemmia (vinto da Brancati)		Trilussa, presidente del Premio Vendemmia	Il Premio della Vendemmia a Vitaliano Brancati		
-1946-12-06	06/12/1946	2			L	articolo su censura URSS secondo direttive Snamja	no		La censura letteraria nell'U.R.S.S.		
-1946-12-06	06/12/1946	2	Jacques de Lacretelle		L	articolo sull autore in occasione della sua confe in CH	no ma menzione di opere + foto		Jacques de Lacretelle		
-1946-12-13	13/12/1946	3			L	"articolo che critica pubblicità (caso di Zoppi per pubblicazione ""Con noi e coi nostri classici"" di Reto Roedel)"	no (ma riporta lettera editore allegata)		Della pubblicità		
-1946-12-13	13/12/1946	3	Calgari Guido	"""Coscienza. Breviario del cittadino e del soldato"""	L	riporta articolo dal Caffè che commenta criticamente il libro	qualche citazione	dal Caffè	Della coscienza		
-1946-12-13	13/12/1946	3			L	vignetta umoristica su riviste con un paio di righe di contesto			A Marechiaro		
-1946-12-20	20/12/1946	2	Pietro Salati	"""Tre poesie"""	L	tre poesie	si		Tre poesie		
-1946-12-20	20/12/1946	2			L	preserntazione del dizionario letterario Bompiani	no		Dizionario letterario BOMPIANI		
+pk_numero	data	numero	rubrica_all	note_fuori_rubrica	notizie_fatti_storici	note	note_varie
+1	1946-01-02	1	No				
+2	1946-01-03	2	No	"Bibliografia: Piero Bianconi (p.2), ne ""La Pagina della scuola"""	ripresa processo Norimberga		
+3	1946-01-04	3	Sì	"Nei cinema: ""Il grande dittatore"" al Kursaal"			
+4	1946-01-05	4	No	Vita e cultura italiane (!!p.2); programmi della RSI (relazioni artistiche con IT	 p. 3)	primo rapporto del CF sulle mene nazi-fasciste in CH	
+5	1946-01-07	5	No				
+6	1946-01-08	6	no	Asterischi italiani (stampa IT	 giornalismo	 satira..)	
+7	1946-01-09	7	no	Attività culturale del PS italiano: l'istituto di studi	L'URSS possiede una superbomba atomica		
+8	1946-01-10	8	no	"Premio letterario ""Ghilda del Libro"" (p.2). Bibliografia: ""Storia contemporanea"" di Emilio Bontà, ne ""La Pagina della scuola"" (p.2)"			
+9	1946-01-11	9	sì	"L'Italia rinascente: ""Il Ponte"" (rivista) (p.2). Pubblicazioni illustrazione ticinese (p.3)"	iniziata conferenza dell'UNO		
+10	1946-01-12	10	no	"La censura, ne ""La pagina dell'emigrazione italiana"" (p. 2)"			
+11	1946-01-14	11	no	"Nenni e Silone a Londra, in ""Notizie dall'Italia"" (p.2)"			
+12	1946-01-15	12	no	"La recita della compagnia Elisa Merlini. Ai confini de ""La piccola città"" (p. 3)"			
+13	1946-01-16	13	no	"Largo Sfondao, libro di Arnoldo Lorini (p. 2); poeta Diego Valeri in Ticino e in Svizzera (p. 3). Le recite di Elisa Merlini (""Vestire ignudi"" di Pirandello + ""Orchidea"" di Sem Benelli, p. 3)"			
+14	1946-01-17	14	no	Le ultime recite della compagnia Elsa Merlini (p.3)			
+15	1946-01-18	15	Sì	"La stampa riprende a Berlino (p. 1). La Dante Alighieri in ""Notizie dall'Italia"" (p.2). Una lettera del compagno Tonello (Angelo) (p. 2). Nenni e Silone a Londra significano una svolta nel PSI (p. 4)"			
+16	1946-01-19	16	no	Grande serata musico-letteraria in margine al congresso giovanile socialista (p. 2)	 con ospiti Eros Bellinelli	 Tino Erler	 Sergio Maspoli;  Pietro e Vinicio Salati
+17	1946-01-21	17	no	Opere entrate recentemente nella Biblioteca cantonale di Lugano (p.2); Conferenza Diego Valeri a Chiasso (p.3)			
+18	1946-01-22	18	no	Conferenza Valeri a Mendrisio (p.3)	 Al circolo di cultura di Locarno (programma	 p. 3)	 Donazioni alla biblioteca cantonale nel 1945 (p.3) 
+19	1946-01-23	19	no	Conferenza Valeri a Chiasso e Biasca (p.3). Lugano e dintorni: una serata popolare di musica e letteratura (p.3). La morte di un celebre linguista	 Matteo Bartoli (p.4)		
+20	1946-01-24	20	no	"riporta articolo ""Himmler e Satana"", dialogo immaginato e pubblicato sul Forward, settimanale socialista inglese con toni sarcastici e satirici (p.2); Lugano e dintorni: il programma della serata musico-letteraria (p3)"			
+21	1946-01-25	21	si	"""Il prezzo dei giornali"" (p.1); Lugano e dintorni: la serata musico-letteraria alla Casa d'Italia (p.3) ; Teatro veneziano (p.3)"			
+22	1946-01-26	22	no	"Perché una serata musico-letteraria? in ""Gioventù Socialista. All'avanguardia del proletariato"" (p.3)"			
+23	1946-01-28	23	no	"La censura, ne ""La pagina dell'emigrazione italiana"" (p. 2), Chiasso: Il circolo di cultura (p.2). Lugano e dintorni: La serata artistica in margine al Congresso giovanile socialista (p.3); pubblicità ""Il Piccolo. Settimanale d'informazioni e di letteratura varia"" (p3)"			
+24	1945-01-29	24	no	Onoranze a Benedetto Croce (p.3). Nella nostra libreria (pubblicazioni in vendita	 p4)		
+25	1946-01-30	25	no	"Victor Hugo e la navigazione aerea (p1); in ""Asteristichi italiani"" (p1)  su parole proibite durante il regime che stanno ora ritornando sui giornali IT. Nella nostra libreria (pubb in vendita, p4)"			
+26	1946-01-31	26	no				
+27	1946-02-01	27	no	Parisiana. La grande stampa quotidiana della Ville-Lumière (p1)			
+28	1946-01-02	28	no	Conferenza Valeri a Ginevra (p2)			
+29	1946-02-04	29	no	La serata musico-letteraria (p3); Conferenza Valeri sulla letteratura veneziana al Circolo ticinese di coltura (p3); morte di Philips Oppenhein (p4)			
+30	1946-02-05	30	no	"Riempitivo su Renato Fucini (p2) ; pubblicità ""Nella nostra libreria"" (p4)"			
+31	1946-02-06	31	no	"Riempitivo su Voltaire; riempitivo ""ONU O UNO?"" (p2); Lo scrittore Elio Vittorini alla Ghilda del Libro (p3)"			
+32	1946-02-07	32	no	"Il brutale assassinio di Koj Munk, poeta danese (p1); Lectura Dantis Francesco Chiesa a Mendrisio (p2); Dante Bertolini, Il bel sentiero, in ""Bibliografia"" (P2); Il romanziere Vittorini alla Ghilda del Libro (p3)"			
+33	1946-02-08	33	si				
+34	1946-02-09	34	no	i programmi della RSI (p2); conferenza di Giuseppe De logu a Sciaffusa (p4)	"Inglesi vogliono facilitare entrata paesi neutri (anche CH) nell'ONU (""blocco antisovietico che si inizia a costituire apertamente"") (p1)"		
+35	1946-02-11	35	no	Cronache di cultura italiana	 visita di Elio Vittorini (p2); Elogio del lavoro italiano (3 colonna su artisti	 p2); Conferenza di Elio Vittorini alla Ghilda del Libro (p3)	 Le recite della compagnia Tabody al Kursaal (p3)
+36	1946-02-12	36	no				
+37	1946-02-13	37	no	Conferenza Pierre Briquet a Chiasso	 sullo scrittore Pierre Loti (p3); Recite Maieroni a Mendrisio (p3)		
+38	1946-02-14	38	no	"Conferenza De Logu a Biasca sul tema ""Il comune repubblicano di Firenze"" (p3)"			
+39	1946-02-15	39	si	Conferenza De Logu a Lugano sulle arti figurative a Venezia (p4)	Pubblicazione numeri ebrei sterminati dai nazi (processo di Norimberga	 p1)	
+40	1946-02-16	40	no	"Una serie di nomine all'Accademia francese (p1); Retroscena del grande giornalismo. Vita e miracoli del vetusto 'Figaro' (""Parisiana"") (p1-2); Conferenza De Logu a Biasca ""Il comune rep di Firenze"" (2); I programmi della RSI (p3)"			
+41	1946-02-18	41	no	Conferenza Valeri a San Gallo (p2); Conferenza DeLogu a Sciaffusa (p2); Concorso romanzi d'appendice (p3)	 seconda conferenza De Logu a Lugano (p3); Commemorazione di Paul Verlaine (p4)		
+42	1946-02-19	42	no	"Ottant'anni di  Benedetto Croce, in ""Quel che scrivono gli altri"" (p2); Conferenza Delogu a Locarno (p3)"			
+43	1946-02-20	43	no	Morte di Jvan Moskowin (attore russo	 p1); Le recite della compagnia Tabody (p3)	 Pubbliaczioni in vendita (p3); La morte di Carlo Falbo (p4)	
+44	1946-02-21	44	no	"L'Istituto di Cultura di Losanna (p2), Flussi e riflussi ne ""La pagina della scuola"" (p2)"			
+45	1946-02-22	45	sì	Manifestazioni cinematografiche culturali di propaganda operaia (p3); Domani supplemento letterario dedicato ai Giovani Poeti Ticinesi (p2)			
+46	1946-02-23	46	no MA GPT	Nella biblioteca nazionale (dimissioni direttore	 p2); PAGINA 4 GIOVANI POETI TICINESI		
+47	1946-02-25	47	no	"Il dir. del ""Forward"" eletto trionfalmente nonostante i malefizi (di Bernard Shaw, corrispondenza speciale; p2). Teatro prima rappresentazione ""la luce splende nelle tenebre"" di Leone Tolstoi (p3)"			
+48	1946-02-26	48	no	lista Opere entrate recentemente nella Biblioteca Cantonale di Lugano (4)	L'USS aderisce alla Federazione sindacale mondiale (2)		
+49	1946-02-27	49	no	onoranze a Benedetto Croce (p2)			
+50	1946-02-28	50	no				
+51	1946-03-01	51	si	"""Nella nostra libreria"" lista pubblicazioni (p4)"			
+52	1946-03-02	52	no				
+53	1946-03-04	53	no	"Biblio cantonale riprende orario normale (p3); recita""La prigioniera"" di Bourdet al Kursaal"			
+54	1946-03-05	54	no	"Pareri italiani su film svizzero ""Ultima speranza"" (p2); allocuzione ""Cavalieri dell'ideale socialista"" di Attilio Petralli (p2); Pubblicazioni in vendita (p4)"			
+55	1946-03-06	55	no	"Conferenz Job alla Dante di ZH (3), mostra Gonzato a Friborgo (3), concerto alla ""Letteraria"" (3), Elenco vincitori premio letterario del ""Corriere Lombardo"" (3)"			
+56	1946-03-07	56	no	Ugo Enrico Paoli nel canton Ticino (p3)			
+57	1946-03-08	57	si	"giornali in IT, clima stampa più libero (quotidiani antifascisti, dalla Francia…) in ""Asterischi italiani"" (p2); Conferenza a Chiasso ""Poeti senza lauro all'ombra della dittatura"" (3); Conferenza Nocher a Lugano ""Grandezza e schiavitù della stampa della liberazione"" (3)"			
+58	1946-03-09	58	no	"""All'osteria di Trilussa"" (sulle sue poesie) di Guglielmo Usellini (p1); conferenze Ugo Enrrico Paoli (p2), Alberto Moravia vince il premio 'corriere lombardo' (p3), ""Nella nostra Libreria"" (p4)"			
+59	1946-03-11	59	no	La conferenza Jean Nocher a Lugano (p3); poeta Sergio Maspoli all'ECCO  (p3)			
+60	1946-03-12	60	no	"Fata primavera, Eva proletaria 1946 (in ""Parisiana"", p1); articolo sul Risorgimento che menziona Leopardi, Foscolo (p2); il novantesimo compleanno di B Shaw (p2); Sergio Maspoli all'ECCO (3)"			
+61	1946-03-13	61	no	Letture di Sergio Maspoli a Lugano (3)			
+62	1946-03-14	62	no				
+63	1946-03-15	63	si	"Premio letterario ""Libera Stampa"" (p1), Pubblicazioni in vendita (p4)"	discorso di Stalin in risposta a Churchill	 crisi/tensione URSS-GB	
+64	1946-03-16	64	no				
+65	1946-03-18	65	no	compagnia italiana di prosa Laura Carli e Giulio Stival al Kursaal (3); conferenza Paoli a Lugano (3)	75esimo anniversario Commune parigina		
+66	1946-03-19			SAN GIUSEPPE	 NO GIORNALE		
+67	1946-03-20	66	no	serata ricreativa con Sergio Maspoli a Chiasso (3)	 conferenza Paoli al circolo di cultura Biasca (3)		
+68	1946-03-21	67	no	"""Profumo d'orti"" in Flussi e Riflussi (2); Pierre Goemaere conferenza a Lugano (3)"	Ripresa relazioni diplomatiche CH-Russia (1)		
+69	1946-03-22	68	si				
+70	1946-03-23	69	no	"AVVISO sulla ""Pagina dell'emigrazione IT"" (sollecita a inviare contributi, p2)"			
+71	1946-03-25	70	no	compagnia Carli-Stivali al Kursaal (3)			
+72	1946-03-26	71	no	"parole ""sciuscià"" e ""segnorine"" in Asterischi italiani (2); caricaturisti inglesi come prova della libertà di stampa (2), Libri per i paesi devastati (2)"	sollievo per decisione russa di sgomberare l'Iran (4)		
+73	1946-03-27	72	no	Istituti italiani di cultura	 legazione italiana a Berna e relativi consolati (2); serie di reciti Carli-Stivali prolungata (3); conferenza Setti su liriche 1200-300 al circolo di cultura di Lugano (3) 		
+74	1946-03-28	73	no	recite della compagnia Bonecchi a Mendrisio (2)	 prima mostra di artisti (scultori	 pittori) svizzero-italiani nei Grigioni (2)	
+75	1946-03-29	74	no	"""La metropoli ferita"" in Flussi e Riflussi (2); un libro bianco svedese sulla Norvegia (4)"			
+76	1945-03-30	75	no	rappresentazione compagnia Bonecchi (2)	"""La pace che non viene"" (1)"		
+77	1946-04-01	76	no	"Ricordo di Federico Garcia Lorca (poesia ""La limpida morte"", p2)"			
+78	1946-04-02	77	no	Conferenza Piero Bianconi a Mendrisio (p3)			
+79	1946-04-03	78	no				
+80	1946-04-04	79	no	"Ne ""La pagina della scuola"" si spinge per una scuola superiore (univeristà troppo) nella CH italiana (p2)"			
+81	1946-04-05	80	si	"Mostra d'arte alla Ghilda del Libro (3); Conferenza Nobile Ventura (""poeti senza lauro.."", p3)"			
+82	1946-04-06	81	no	Conferenza Nino Salvaneschi a Bellinzona (2); circolo italiano a Locarno sull'apertura della biblio (2); Maurice Chevalier a Lugano (2)	 incisori romandi alla Ghilda del Libro (2)		
+83	1946-04-08	82	no	Conferenza Nobile Ventura a Lugano (3)	 mostra d'incisioni alla Ghilda (3)		
+84	1946-04-09	83	no	Compagnia Bonecchi a Chiasso (3)	 scrittore Henri de Ziegler in TI (3)	 Conferenza Nobile Ventura (3); arrestato l'assassino dello scrittore Kai Munk (4)	Milano è socialista (elezioni) (1)
+85	1946-04-10	84	no				
+86	1946-04-11	85	no	Conferenza Ventura alla Ghilda (recap 	 p4)		
+87	1946-04-12	86	si	"Civitas nova (uni in CH ita, p1); ""In casa di Formenti"" (episodio di guerra dal giornale ""Socialismo"", p2,), conferenza Nobile Ventura a Mendrisio (3), conferenza de Ziegler a Locarno (3), mosta d'incisioni del gruppo romando ""tailles et morsures"" (3)"			
+88	1946-04-13	87	no	compagnia Bonecchi a Chiasso e Mendrisio (2)	 Chevalier a Lugano (2)	 espo arte Zaccheo e Chepard a Locarno (2)	 mosta Lomazzi a Lugano (2);  corsi ITA alla Dante Alighieri di Basilea (2)
+89	1946-04-15	88	no	Salvatore Quasimodo lascia il PC (2)			
+90	1946-04-16	89	no	smentita dimissioni Quasimodo dal PC (2)	 rappresentazioni Bonecchi (3)	PAG 3 inferiore INCOMPLETA; ripresa attività Ku Klux Klan negli USA; ad Auschwitz massacrate 3 mio pp (processo Norimberga	 p4)
+91	1946-04-17	90	no				
+92	1946-04-18	91	no	chiusura Biblioteca cantonale di Lugano (p3)			
+93	1946-04-19	92	no	Colloquio Lasky-Croce (p3)			
+94	1946-04-20	93	si	"""SUPPLEMENTO"" (rubrica su tutta la p3!)"			
+95	1946-04-23	94	no	"un coraggioso discorso di Lasky (1); ""A Saturnino Ruiz operaio tipografo"" di Manuel Altolaguirre (POESIA, p2)"	PAG 3 inferiore INCOMPLETA		
+96	1946-04-24	95	no	mostra pittrice Guidini a Lugano (3); edizioni svizzere per la gioventù (4)			
+97	1946-04-25	96	no	morto il pittore ticinese G.B. Corty (3)			
+98	1946-04-26	97	no	conferenza Nino Salvaneschi a Locarno (3)	 poesie inedite di Delio Tessa (p3)		
+99	1946-04-27	98	no	conferenza Nino Salvaneschi a Chiasso (2)	 conferenza su Manzoni a Lugano (2)	 corsi di italiano alla Dante Alighieri di Basilea (2)	
+100	1946-04-29	99	no	lettura poesie di Delio Tessa a Lugano (2)	 dottorato honoris causa in lettere a P. Perret a Losanna (3)		
+101	1946-04-30	100	no	conferenza Salvaneschi a Mendrisio (3); annuncio premio letterario Libera Stampa (4)			
+102	1946-05-01	101-102	si (special: L'ARTE DÀ E CREA	 CON LA POLITICA	 LA COSCIENZA DEI POPOLI)	"poesia Vladimir Maiakovski (1); azione socialista e preparazione culturale (8), poesia W. Leonhard ""Liebknecht morto"" (11)"	
+103	1945-05-03	103	si				
+104	1946-05-04	104	no		Socialismo e comunismo in Francia	 Tensione in Alto Adige	
+105	1946-05-06	105	no				
+106	1946-05-07	106	no	Nella nostra libreria (p4)			
+107	1946-05-08	107	no	L'arte di Georges Darel al Kunsthaus di Zurigo (2)	"""Ad un anno di distanza. Necessità di una pace socialista"" e similmente ""Dopo l'otto Maggio 1945. Desideri e realtà entro l'anno"" (1); Ferruccio Parri (partigiano) a Lugano (3)"		
+108	1946-05-09	108	no	"12 maggio festa della mamma: poesia ""Viva la Mam!"" in una pubblicità (p4)"			
+109	1946-05-10	109	si				
+110	1946-05-11	110	no	eposizione del libro svizzero (e assenza del TI; p2); compagnia Bonecchi a Faido (2)	 Conferenza Salvaneschi a Bellinzona (2); alla Dante Alighieri di Basilea conferenza informativa su situa culturale in IT (2)	gio 10 maggio re Vittorio EmanueleIII  ha abdicato	
+111	1946-05-13	111	no	conferenza Fiocco su pittore Luini a Chiasso e Lugano (p3)	 Hitchock a Londra (p4)	 artisti che non si fanno onore (p4)	Congresso PS (tra cui situa Libera Stampa p1)
+112	1946-05-14	112	no	Concerto Cortot al Kursaal (3)	 conferenza Fiocco su Luini a Lugano (p3)	 annuncio premio letterario Libera Stampa (p4)	
+113	1946-05-15	113	no				
+114	1946-05-16	114	no	Conferenza Fiocco su Luini a Lugano (p3)			
+115	1946-05-17	115	si	Conferenza su Luini nel locarnese (3)	Amarezza nella stampa IT su revisione trattato armistizio IT (1)		
+116	1946-05-18	116	no	"""La nuova stampa italiana"", esposizione giornali/riviste IT (2); Conferenza su Luini a Biasca (3), "			
+117	1946-05-20	117	no				
+118	1946-05-21	118	no	donazioni Libri agli internati (2)			
+119	1946-05-22	119	no	DI vernacolo e di latino (intervento Canevascini	 p1)	 trattenimento musico-letterario a Mendrisio sulla musica italiana '800 (p3)	 commemorazione del poeta Bertacchi alla casa d'Italia di Lugano (p3)
+120	1946-05-23	120	no	morte del pianista svizzero Emilio Frey (2)	i sovietici sgomberano totalmente l'Iran (p1)		
+121	1946-05-24	121	si	trattenimento musico-letterario (musica vocale IT '800) a Mendrisio (3)			
+122	1946-05-25	122	no	"conferenza Setti sui poeti maggiori a Biasca (2); numero speciale di ""Sibemol"" dedicato alle donne (2), esposizione stampe italiane (p3)"			
+123	1946-05-27	123	no	Francesco Flora sul poeta Giovanni Bertacchi a Lugano (4)	 morte di Guggenheim (4)		
+124	1946-05-28	124	no	commomorazione Bertacchi (3)	 opere entrate recentemente nella biblio cantonale (4)	Vittoria comunista in Cecoslovacchia (1)	
+125	1946-05-29	125	no	commemorazione Bertacchi (3)			
+126	1946-05-31	126	si	Bertacchi commemorato alla casa d'Italia (3)			
+127	1946-06-01	127	no		"""L'Europa sceglie"" (p1, pre elezioni IT e FR)"		
+128	1946-06-03	128	no		congresso  dei neri USA  VS oppressione (p1)		
+129	1946-06-04	129	no	Bernard Shaw e Montgomery (1)	 premio di scultura a Luigi Brogini (3)	Risultati elezioni FR (vittoria repubblicani	 p1)
+130	1946-06-05	130	no		risultati elezioni IT (DC e sx	 p1)	
+131	1946-06-06	131	no		"elezioni in IT, approfondimento e primo commento (1); ""necessità d'intesa fra Oriente e Occidente"" (1)"		
+132	1946-06-07	132	si	"autore Paolo Liggeri a Lugano per presentare ""Triangolo Rosso"" (3)"			
+133	1946-06-08	133	no				
+134	1946-06-11	134	no		"""Avremo il suffragio femminile?"" (p1); risultati definitivi del referendum IT (p4)"		
+135	1946-06-12	135	no	Morte del poeta tedesco Gerhard Haputmann (4)			
+136	1946-06-13	136	no				
+137	1946-06-14	137	no	Supplemento letterario (rubrica ALS nel prossimo numero	 il 138; p1)		
+138	1946-06-15	138	si	restitutzione libri in biblioteca cantonale per la revisione annuale (2)	Moto rivoluzionario scoppia in Bolivia a La Paz (p1)		
+139	1946-06-17	139	no	concorso fra poeti e musicisti IT per l'inno della nuova repubblica IT (2); premio letterario Kornmann a Edoardo Chapuisat (p3); mostra d'arte alle Ghilda del Libro (3)			
+140	1946-06-18	140	no		"""Ebrei in sommossa nella Palestina"" (4)"		
+141	1946-06-19	141	no	mostra d'arte alla Ghilda del Libro (3)			
+142	1946-06-21	142	si	mostra del libro svizzero a Buenos Aires (1)			
+143	1946-06-22	143	no	Antonio Greppi a Ginevra (2)			
+144	1946-06-24	144	no		La Lega londinese per la difesa del cane propone di sostituire gli animali con i criminali di guerra nazi per esperimenti atomica Bikini (4)		
+145	1946-06-25	145	no	premio letterario Théophraste Renaudot attribuito a David Rousset; premio Goncourt a Francis Ambrière (4)			
+146	1946-06-26	146	no				
+147	1946-06-27	147	no		Questione colonie italiane (1)		
+148	1946-06-28	148	no		propongono la duplice sovranità su Trieste (1	 altro a p3)	
+149	1946-06-29				NUMERO ASSENTE IN DIGITALE		
+150	1946-07-02	150	no	"""Date dei libri"" (appello a donazioni per biblioteche/centri istruz IT, p4)"	bomba atomica su Bikini (1)		
+151	1946-07-03	151	no		questione Trieste (1)		
+152	1946-07-04	152	no	"""Ghilda del libro Gutenberg contro 'Volksbuchgemeinde'"" (2)"			
+153	1946-07-05	153	si	"""Date dei libri"" (appello a donazioni per biblioteche/centri istruz IT, p2)"			
+154	1946-07-06	154	no		scioglimento dei CNL in Italia (3)		
+155	1946-07-08	155	no	poesia di Giuseppe Scorti nella pag della Gioventù Socialista (2)			
+156	1946-07-09	156	no	"racconto ""Ricordi di un viaggio"" di E.A. nella pag ""La nostra compagna"" (2)"	"""Il dramma della Palestina"" (1)"		
+157	1946-07-10	157	no	epurazione nelle biblioteche in Germania (4)	 dichiarazione di B. Croce sulla situa in IT (4)		
+158	1946-07-11	158	no	"settimana internaz di cultura a Locarno, tema ""Gli scrittori della resistenza in Francia ed in Italia"" (3)"	continuano scioperi a Trieste (2)		
+159	1946-07-12	159	si				
+160	1946-07-13	160	no	"settimana internaz di cultura a Locarno, tema ""Gli scrittori della resistenza in Francia ed in Italia"" (2)"			
+161	1946-07-15	161	no	"""umanità e socialismo del Bertacchi"" (1)"			
+162	1946-07-16	162	no				
+163	1946-07-17	163	no	307 anni dalla morte di Tommaso Campanella (1-2)			
+164	1946-07-18	164	no	scrittori parigini a Locano (2)	odissea italiana: i prigioneir ritornano (1)		
+165	1946-07-19	165	no				
+166	1946-07-20	166	no				
+167	1946-07-22	167	no				
+168	1946-07-23	168	no	"Due parole con il lettore: parliamo troppo dell'Italia? (p1); Un museo dei poeti a Liestal (2); libro ""Storia di un matrimonio felice"" di Margaret Cole (3)"			
+169	1946-07-24	169	no	"su Dino Segre (=Pitigrilli) in ""Quel che scrivono gli altri"" (2); ""un anniversario ammonitore"" in ""qualche cosa"" (rubrica x poesia?? P3)"			
+170	1946-07-25	170	no		Controrivoluzione in Bolivia (1); Tre anni fa (caduta del fascismo	 p3)	
+171	1946-07-26	171	si		"a Bikini scoppia la 5° atomica (""L'umanità non potrebbe sopravvivere ad una guerra atomica"")"		
+172	1946-07-27	172	no	articolo di Silone sulle difficoltà della democrazia in IT (2)			
+173	1946-07-29	173	no	"Film ""Il battello dipinto"" (1)"			
+174	1946-07-30	174	no		battaglie stradali a Trieste (foto	 p1)	
+175	1946-07-31	175	no				
+176	1946-08-02	176	si	"concorso per nuovo titolo del settimanale cinematografico ""Piccolo"" (3), nuovo direttore del ""Popolo"" IT (4)"			
+177	1946-08-03	177	no				
+178	1946-08-05	178	no	articolo su George Bernard Shaw	 di Giuseppe Sinicco (p2)		
+179	1946-08-06	179	no	annuncio premio letterario LS (p4)			
+180	1946-08-07	180	no	mostra d'arte alla Ghilda a Lugano (p3)			
+181	1946-08-08	181	no	scrittrice Gabriella Neri assassinata (p2); premio letterario LS (p3)	"""L'Europa diventa piccola"" (voli aerei, p1); Sul riavvicinamento culturale russo-svizzero (p1)"		
+182	1946-08-09	182	no	"morte scrittrice Gertrude Stein (p1); ""un grande poeta ticinese"" (p3, canzonatura ma senza fare nomi… Zoppi?)"			
+183	1946-08-10	183	no		"""Gli arabi confidano nell'URSS. La Palestina miglior banco di prova per la politica sovietica"" (p3)"		
+184	1946-08-12	184	no	"annuncio pubb ""le memorie di un calzolaio"" di Sinicco (p1), Memorie di un calzolaio (p3)-->v. foto archivi del 2 marzo!!; Bendetto Croce sulla fondazione uni Civitas Nuova a Lugano (p3), inaugurazione mostra d'arte alle Ghilda (p3)"			
+185	1946-08-13	185	no	Memorie di un calzolaio II (p3)			
+186	1946-08-14	186	no	Memorie di un calzolaio III (p3)			
+187	1946-08-16	187	no	"libro ""La Svizzera"" di Egidio Reale (p1); H. G. Wells è morto (p2); ""Sole e ombr"" in Flussi e Riflussi (p2); Memorie di un calzolaio IV (p3)"			
+188	1946-08-17	188	no	Memorie di un calzolaio V (p2); A Saba e micheli il premio Viareggio (p4)			
+189	1946-08-18	189	no				
+190	1946-08-20	190	no		"""Il terrore minaccia la Palestina"" (ebrei VS britannici, p1)"		
+191	1946-08-21	191	no	Memorie di un calzolaio VI (p3)			
+192	1946-08-22	192	no	"""Al mio amico Bracops"" in Flussi e Riflussi (p2); Memorie di un calzolaio VII (p3); mostra del libro americano (p3)"			
+193	1946-08-23	193	si	Intervista con Silone (p2-3?)			
+194	1946-08-24	194	no				
+195	1946-08-26	195	no	"""Kaputt"" p.2 (?) e ""Il paese"" p.3 (meh?); Memorie di un calzolaio VIII (p3)"			
+196	1946-08-27	196	no	"""Selenio"" di Ugo Frey (p2); Memorie di un calzolaio IX (p3)"			
+197	1946-08-28	197	no	Memorie di un calzolaio X (p3)			
+198	1946-08-29	198	no	George Bernard Shaw e Herbert George Wells (pp.1-2); Il tragico romanzo di Lassalle dopo 82 anni (p1)	 mostra arte alla Ghilda (p3)		
+199	1946-08-30	199	si	Memorie di un calzolaio XI (3)	 serata ricreativa pro biblioteca popolare (3)	 scambi culturali (3)	
+200	1946-08-31	200	no	serata ricreativa pro biblioteca popolare (2)			
+201	1946-09-02	201	no		"""Anche l'inutile processo di Norimberga è finito"" (1)"		
+202	1946-09-03	202	no		Rastrellamento a Trieste (4)		
+203	1946-09-04	203	no	"esposizione del libro inglese a Berna (2); Memorie di un calzolaio XII (p3); ""Anche Lugano deve avere la sua vita culturale"" (3)"			
+204	1946-09-05	204	no	"""La Svizzera"" di Egidio Reale, edizione Ghilda del libro (p2); ""Solitudine settembrina"" in Flussi e Riflussi (2)"			
+205	1946-09-06	205	si				
+206	1946-09-07	206	no	Anche Piero Parini è libero (giornalista/editore  fascio	 p1); mostra di artisti varesotti alla Ghilda a Lugano (2)		
+207	1946-09-09	207	no	Inaugurazione mostra alla Ghilda (p3)			
+208	1946-09-10	208	no				
+209	1946-09-11	209	no	Memorie di un calzolaio XIII (p3); dono dello scrittore Edmond Jaloux alla biblioteca di Losanna (collezione di testi letterari	 p4)	"""Attlee ritiene solubile il problema palestinese"" (4)"	
+210	1946-09-12	210	no				
+211	1946-09-13	211	si	Memorie di un calzolaio XIV (p3); Corsi d'inglese alla Ghilda (p3)			
+212	1946-09-14	212	no				
+213	1946-09-16	213	no	"""Rispostine"" in rubrica Qualche cosa su Zoppi e altre considerazioni letterarie da parte dei lettori (p2); Memorie di un calzolaio XV (p3)"	"""Il discorso Wallace fa rumore"" = CLIMA USA nei confronti URSS tra discorsi e posizioni contrastanti in merito all' ""espansionismo russo"" (1)"		
+214	1946-09-17	214	no	"trafiletto ""Per evitare incidenti"",su via ""Ludovico Ariosto"" (p3); Memorie di un calzolaio XVII (p3)"			
+215	1946-09-18	215	no				
+216	1946-09-19	216	no	Memorie di un calzolaio XVII (p3)			
+217	1946-09-20	217	si	trafiletto su attore Macario in Quel che scrivono gli altri (p2)			
+218	1946-09-21	218	no				
+219	1946-09-23	219	no	vasta epurazione tra gli scrittori (p1)			
+220	1946-09-24	220	no	biblioteche circolanti (p2)	 Memorie di un calzolaio XVIII (p3); visita di Luigi Antonini a Lugano (p3)		
+221	1946-09-25	221	no	Letteratura comunista (p1); Giornali svizzeri proibiti in Romania (p2); libro di Saponaro su Mazzini (p2)			
+222	1946-09-26	222	no				
+223	1946-09-27	223	no	Memorie di un calzolaio XIX (p2)			
+224	1946-09-28	224	si				
+225	1946-09-30	225	no	salon romand du livre a Neauchâtel (con premio assegnato	 p4)		
+226	1946-10-01	226	no				
+227	1946-10-02	227	no		Lettura del verdetto Norimberga (1 e 4)		
+228	1946-10-03	228	no	"""La vera povertà"" in Flussi e Riflussi (p2)"			
+229	1946-10-04	229	si	"""Lettere veneziane"" (1-2)"			
+230	1946-10-05	230	si				
+231	1946-10-07	231	no	"""Lettere veneziane II: Tintoretto alla scuola di San Rocco"" (2)"			
+232	1946-10-08	232	no				
+233	1946-10-09	233	no	Mostra del pittore Corty alla Ghilda (3)	Armistizio nell'Iran (1)		
+234	1946-10-10	234	no				
+235	1946-10-11	235	si		"""Il problema di Trieste visto da tirestini"" (2)"		
+236	1946-10-12	236	no	poeta Sergio Maspoli alla RSI (2); pag 3 tutta sulla Fiera Svizzera di Lugano (con articolo su Quadri/statue)			
+237	1946-10-14	237	no	"dizione di poesia al circolo di cultura di Chiasso (p3); ""Memorie di un calzolaio XX"" (p3), mostra Corty alla Ghilda (p3), "			
+238	1946-10-15	238	no	dizione di poesia moderna e contemporanea a Bellinzona (p2)	 Memorie di un calzolaio XXI (p3)		
+239	1946-10-16	239	no				
+240	1946-10-17	240	no		Göring suicidato con il cianuro (1)		
+241	1946-10-18	241	si	dizione di poesia a Biasca (p3)			
+242	1946-10-19	242	no				
+243	1946-10-21	243	no				
+244	1946-10-22	244	no	dizioni al circolo di cultura (p3)		"""Perché il diritto di voto alle donne ticinesi?"" (p2)"	
+245	1946-10-23	245	no	"""I cent'anni di DE AMICIS"" (P1)"			
+246	1946-10-24	246	no	trasmissioni musico-letterarie per i docenti (p3)			
+247	1946-10-25	247	si	Churchill denuncia lo scrittore americano Louis Adamic (p1); serata dizioni poesie ad Airolo (3); premio Stendhal a Jean Dutourd (p4)			
+248	1946-10-26	248	no				
+249	1946-10-28	249	no				
+250	1946-10-29	250	no	"""Libri per la Germania"" (p2), Memorie di un calzolaio XXII (p2)"			
+251	1946-10-30	251	no	"""Nella nosta libreria"" (p3)"	Stalin per l'unità della Germania (p1)		
+252	1946-10-31	252	no	Pubblicazioni: almanacco malcantonese (p2); donne nella poesia (p4 sotto immagine)			
+253	1946-11-02	253	no	Silvio d'Amico (critico teatrale) nel Ticino (p2)			
+254	1946-11-04	254	no	"critica sulla dizione dei ""Sepolcri"" di Lesse Di Luca alla RSI (p2); il giornalista svizzero Jon Kimche nominato redattore della Tribune inglese (p3); omaggio al ""dr"" Varesi (fondatore LS, p3); conferenza ""Pirandello drammaturgo"" a Bellinzona (p3)"	due NO alle votazioni (fra cui suffragio femminile	 p1)	
+255	1946-11-05	255	no	lista libri entrati in biblioteca cantonale (p2)	Giornata elettorale USA (p1)		
+256	1946-11-06	256	no	"""novità librarie"" (p2)"	"""De Gaulle dichiara guerra alla IV Repubblica"" (p1)"		
+257	1946-11-07	257	no	"Pubblicazione ""Lettere inedite"" di Emilio Motta (p2)"			
+258	1946-11-08	258	si	esposizione artistica fra cui ticinese Remo Rossi (p4)			
+259	1946-11-09	259	no	"Mark Twain in ""cultura e varietà"" (p3)"	Egidio Reale ambasciatore a Berna (p1)		
+260	1946-11-11	260	no	morte dell'artista Hans Landorf svizzero (p2); esposizione pittore Alexandre Cingria a Ginevra (p2)	questione triestina	 dialogo Tito-Togliatti (p1)	
+261	1946-11-12	261	no				
+262	1946-11-13	262	no	case editrici di Lipsia pronte a sgomberare in Russia (p4)	"""Come ha visto la Svizzera Egidio Reale"" (p2)"		
+263	1946-11-14	263	no	libri per la Germania (p2); corsi per interpreti dialettali alla RSI (p3)			
+264	1946-11-15	264	si	premio nobel a Herman Hesse (p4)			
+265	1946-11-16	265	no				
+266	1946-11-18	266	no	morte dello scrittore Lucien Daudet (p4)			
+267	1946-11-19	267	no	giornalismo e libertà di stampa (inglese?) in Quel che scrivono gli altri (p2); Parigi canta (p3)			
+268	1946-11-20	268	no	"libertà e proprietà di stampa in Quel che scrivono gli altri (p2); successi della ""Compagnia drammatica"" a Ligornetto (p3), conferenza sul pittore Salvatore Quattrocchi (p3)"			
+269	1946-11-21	269	no	Bibliografia: manuale di geografia economia svizzera (p2); commemorazione Brunelleschi a Locarno e Lugano con confe Papini (p3); Giovanni Galbiati gioioso per mostra d'arte Ambrosiana (p4)			
+270	1946-11-22	270	si	orchestra dell'Augusteo di Roma a Lugano (p3)			
+271	1946-11-23	271	no				
+272	1946-11-25	272	no	orchestra Augusteo (p3)	"""Terrore in Palestina"" (p1)"		
+273	1946-11-26	273	no	incisione di dischi (trio di Gandria	 p2)		
+274	1946-11-27	274	no	Jacques de Lacretelle a Lugano conferenza (p3)			
+275	1946-11-28	275	no	dizioni poesie Giovanni Barrella ai circoli di cultura (p3)			
+276	1946-11-29	276	si	furti di quadri Rembrandt a NY (p4)			
+277	1946-11-30	277	no	scrittore USA Upton Sinclair sul socialismo (p1); premio Vendemmia a Vitalino Brancati (3)	approvata convenzione fra CH-ONU (per sede a GVA p1)		
+278	1946-12-02	278	no	"Aldo Capitini alla Ghilda del Libro (p3), premio letterario ""Fémina"" a Michel Robida (p4)"			
+279	1946-12-03	279	no	Giovanni Barrella a Chiasso (p3)	 Conferenza Aldo Capitini (p3)		
+280	1946-12-04	280	no	"""L'edizione svizzera si impone all'estero"" (p2); conferenza Capitini (p3), "			
+281	1946-12-05	281	no	conferenza De Lacretelle a Lugano (p3)	 conferenza Aldo Capitini (p3)	 morte di E. Favre (p4)	
+282	1946-12-06	282	si	Giovanni Rajberti in Quel che scrivono gli altri (p2); Conferenza Capitini (p3)	 concerto quartetto Poltronieri (p3)	 riconoscimento al violoncellista Pablo Casals (p4)	
+283	1946-12-07	283	no	concerto Poltronieri al Kursaal (p2)	 Eduard Herriot eletto accademico francese (p3)	votazioni in corso  (diritto del lavoro e revisione x consigli comunali)	
+284	1946-12-09	284	no	Roma città aperta (p2)	 concerto Peltronieri (p2)	 Barrella al circolo ticinese di cultura (p3)	
+285	1946-12-10	285	no	"poesia ""Gabbiani"" di Carla (p2); sul pittore Mario Ribola (p4)"			
+286	1946-12-11	286	no	Ruggero Ruggeri a Lugano (p3)			
+287	1946-12-12	287	no	premio Nobel a Hesse (p1); dizione Ruggero Ruggeri pro bimbi italiani (p3)			
+288	1946-12-13	288	si	"""Arte libera o arte sociale?"" (di Giuseppe Dessì, p1), 10° dalla morte di Pirandello (p3), mostra di pittura italiana (p3), pubblicazione storica ticinese su restauro monumenti artistici (p3)"			
+289	1946-12-14	289	no	serata dizioni Ruggero Ruggeri (p2)	 opere di lingua italiana e fondazione Schiller (distribuzione volumi	 p7)	trattato di pace con IT verrà firmato 10 febbraio (p1)
+290	1946-12-16	290	no	lezioni di storia dell'arte (p2)			
+291	1946-12-17	291	no	"""tra musica leggera e quella classica la nostra Civica si dibatte"" (p3-4)"			
+292	1946-12-18	292	no	libri in vendita alla ghilda del libro (p4)	nuovo governo FR composto solo da socialisti (p1)		
+293	1946-12-19	293	no	"""Fiaba"" in Flussi e Riflussi (p2), Fusione di 2 giornali parigini (p4)"			
+294	1946-12-20	294	si	"""amicizia con i libri"" (p3)"			
+295	1946-12-21	295	no	"p4 Programma del partito 47-51 (fra cui punti su cultura in ""Educazione""), libri in vendita alla Ghilda (7)"	"""i giganti dell'aria"" (aerei p1)"		
+296	1946-12-23	296	no	Pubblicazioni Illusté di Natale (p3)	 libri in vendita alla Ghilda (3)	 morta la scrittrice antifascista Flavia Steno (p4)	
+297	1946-12-24	297	no	"""Giannini scrittore qualunque"" (lettera da Roma, Gino di Lorenzo p1), ""Avanti"" ha 50 anni (p1); Ricordi di Parigi (sorta di racconto) di Alfredo Talamini (p3), Salvaneschi e Fraccaroli al Liceo di Lugano (p3), Borlenghi al Circolo di cultura (p5), prossima la pubblicazione del rapporto sulla censura in CH durante la guerra (p6)"			
+298	1946-12-27	298	no	opere entrate in biblio cantonale (p2)	 libri in vendita alla Ghilda (p3)		
+299	1946-12-28	299	no				
+300	1946-12-30	300	no	Premio letterario 'Libera Stampa'(1)			
+301	1946-12-31	301	no				
