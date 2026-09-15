@@ -100,6 +100,7 @@ Name, date birth, date death, gender, definition
 
 ### Descrizione
 Lega l'articolo al proprio autore (persona o organizzazione)
+In DBeaver manca il collegamento con la *fk_organisation*
 
 ### Proprietà
 Name as published , notes on author, definition, type, notes
