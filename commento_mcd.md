@@ -52,7 +52,7 @@ Title, article pages, type, article signature, notes, form and graphical feature
 ### Descrizione
 Esprime la relazione fra articolo e opera d'arte menzionata nello stesso. 
 Da sopprimere la colonna *work_author* una volta creati i vari autori e verificati i dati, così come *work_publication_date* e *work_type* (già presenti nella classe Work).
-In alternativa trasformare la colonna *work_author* in *author_as_mentioned* (come già nel MCD2 su draw.io) così da lasciare indicazione del nome con cui l'autore ha pubblicato, che non sempre corrisponde al nome anagrafico (ad esempio Franco Fortini, pseudonimo di Franco Lattes) ma che non sono presenti nella classe *author_name* in quanto NON sono autori di nessun articolo.
+**In alternativa trasformare la colonna *work_author* in *author_as_mentioned* (come già nel MCD2 su draw.io) così da lasciare indicazione del nome con cui l'autore ha pubblicato, che non sempre corrisponde al nome anagrafico (ad esempio Franco Fortini, pseudonimo di Franco Lattes) ma che non sono presenti nella classe *author_name* in quanto NON sono autori di nessun articolo**.
 
 Questo è già stato fatto sul titolo dell'opera.
 
@@ -65,14 +65,15 @@ Work author (da sopprimere),work type (da sopprimere), work mention (definisce i
 Opera artistica.
 
 ### Proprietà
-Name, type (definisce quale tipo di arte: letteraria, musicale, scultorea, pittorica, ...), description, publication date, notes
+Name, type (definisce quale tipo di arte: letteraria, musicale, scultorea, pittorica, ...), description, publication date (data della prima pubblicazione), notes.
+**In ambito letterario un *work* può essere sia una singola opera (poesia, racconto, ecc), ma anche un volume che raccoglie una serie di opere (poesie, racconti, saggi...). In generale sarebbe interessante indicare i dettagli di una pubblicazione: da un lato aggiungendo il legame con la *fk_organisation* (nella classe *work_role* : dettagli sotto), dall'altro aggiungendo la possibilità di indicare "in quale raccolta" l'opera sia pubblicata (quindi in quale *work*), ad esempio aggiungendo come per la classe "article" la *fk_work* (relazione *is part of* o *is published in*)**
 
 
 ## Work role
 
 ### Descrizione
 Esprime la relazione esistente fra persona e opera d'arte.
-Può esistere anche una relazione fra opera d'arte e organizzazione (es. libro pubblicato da una casa editrice, o poesia scritta per un partito): aggiungere la colonna *fk_organistaion* ?
+**Può esistere anche una relazione fra opera d'arte e organizzazione (es. libro pubblicato da una casa editrice, o poesia scritta per un partito): aggiungere la colonna *fk_organistaion* ?**
 
 ### Proprietà
 Role, description, notes
@@ -100,7 +101,7 @@ Name, date birth, date death, gender, definition
 
 ### Descrizione
 Lega l'articolo al proprio autore (persona o organizzazione)
-In DBeaver manca il collegamento con la *fk_organisation*
+**In DBeaver manca il collegamento con la *fk_organisation***
 
 ### Proprietà
 Name as published , notes on author, definition, type, notes
