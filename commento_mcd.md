@@ -42,6 +42,7 @@ Date, issue n° (il numero dell'annata in corso del giornale), rubrica all (indi
 
 ### Descrizione
 Articolo pubblicato su uno/più periodico/i. Se un articolo è ripubblicato va ricreato in intero, con lo stesso autore ecc. e si aggiunge la primary key della pubblicazione precedente nel nuovo articolo, relazione *has former publication*, che in precedenza è stato pubblicato in tale altro articolo.
+**Ci sono però casi in cui un articolo non è ripubblicato per intero, ma viene solamente menzionato o di cui si riporta una citazione. Similmente, alcuni articoli menzionano non dei lavori (classe *work_mention*) ma delle persone, delle organizzazioni o delle riviste. Si potrebbe quindi considerare di trasformare la classe *work_mention* in *mention* e basta, aggiungendo il collegamento con *fk_person*, *fk_organisation* e *fk_periodical*?**
 
 ### Proprietà
 Title, article pages, type, article signature, notes, form and graphical features (nota particolarità grafiche/ d'impaginazione)
@@ -100,7 +101,7 @@ Name, date birth, date death, gender, definition
 ## Author name
 
 ### Descrizione
-Lega l'articolo al proprio autore (persona o organizzazione)
+Lega l'articolo al proprio autore (persona o organizzazione). Quando un articolo consiste nella pubblicazione di una poesia (o racconto), l'autore dell'opera coincide con l'autore dell'articolo. Nei casi di articoli di Libera Stampa non firmati ma scritti con la prima persona plurale, l'autore è identificato con la Redazione del giornale.
 **In DBeaver manca il collegamento con la *fk_organisation***
 
 ### Proprietà
