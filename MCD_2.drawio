@@ -270,7 +270,7 @@
                         <mxPoint x="1270" y="650" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="Bw8D9-mf-STMI-rw64IU-140" connectable="0" parent="Bw8D9-mf-STMI-rw64IU-139" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0..n" vertex="1">
+                <mxCell id="Bw8D9-mf-STMI-rw64IU-140" connectable="0" parent="Bw8D9-mf-STMI-rw64IU-139" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1" vertex="1">
                     <mxGeometry relative="1" x="0.8885" y="-1" as="geometry">
                         <mxPoint x="-43.22" y="-11.69" as="offset"/>
                     </mxGeometry>
